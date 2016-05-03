@@ -1,0 +1,26 @@
+[debug] 
+[debug] Initial source changes: 
+[debug] 	removed:Set()
+[debug] 	added: Set()
+[debug] 	modified: Set(C:\cygwin\home\KG\p4\app\models\Inventory.java)
+[debug] Removed products: Set()
+[debug] External API changes: API Changes: Set()
+[debug] Modified binary dependencies: Set()
+[debug] Initial directly invalidated sources: Set(C:\cygwin\home\KG\p4\app\models\Inventory.java)
+[debug] 
+[debug] Sources indirectly invalidated by:
+[debug] 	product: Set()
+[debug] 	binary dep: Set()
+[debug] 	external source: Set()
+[debug] All initially invalidated sources: Set(C:\cygwin\home\KG\p4\app\models\Inventory.java)
+[info] Compiling 1 Java source to C:\cygwin\home\KG\p4\target\scala-2.11\classes...
+[debug] Attempting to call com.sun.tools.javac.api.JavacTool@1bb79c68 directly...
+[debug] Java compilation took 1.417628304 s
+[debug] Java analysis took 0.178656929 s
+[debug] Java compile + analysis took 1.728676845 s
+[debug] New invalidations:
+[debug] 	Set()
+[debug] Initial set of included nodes: Set()
+[debug] Previously invalidated, but (transitively) depend on new invalidations:
+[debug] 	Set()
+[debug] All newly invalidated sources after taking into account (previously) recompiled sources:Set()

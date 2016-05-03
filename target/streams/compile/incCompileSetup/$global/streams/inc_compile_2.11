@@ -1,0 +1,712 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> C:\cygwin\home\KG\p4\target\scala-2.11\classes
+compile options:
+4 items
+0 -> -deprecation
+1 -> -unchecked
+2 -> -encoding
+3 -> utf8
+javac options:
+3 items
+0 -> -encoding
+1 -> utf8
+2 -> -g
+compiler version:
+1 items
+0 -> 2.11.7
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+61 items
+C:\cygwin\home\KG\p4\app\controllers\Application.java -> C:\cygwin\home\KG\p4\target\scala-2.11\classes\controllers\Application.class
+C:\cygwin\home\KG\p4\app\models\Inventory.java -> C:\cygwin\home\KG\p4\target\scala-2.11\classes\models\Inventory.class
+C:\cygwin\home\KG\p4\app\models\Value.java -> C:\cygwin\home\KG\p4\target\scala-2.11\classes\models\Value.class
+C:\cygwin\home\KG\p4\target\scala-2.11\routes\main\controllers\javascript\JavaScriptReverseRoutes.scala -> C:\cygwin\home\KG\p4\target\scala-2.11\classes\controllers\javascript\ReverseApplication.class
+C:\cygwin\home\KG\p4\target\scala-2.11\routes\main\controllers\javascript\JavaScriptReverseRoutes.scala -> C:\cygwin\home\KG\p4\target\scala-2.11\classes\controllers\javascript\ReverseAssets.class
+C:\cygwin\home\KG\p4\target\scala-2.11\routes\main\controllers\ReverseRoutes.scala -> C:\cygwin\home\KG\p4\target\scala-2.11\classes\controllers\ReverseApplication.class
+C:\cygwin\home\KG\p4\target\scala-2.11\routes\main\controllers\ReverseRoutes.scala -> C:\cygwin\home\KG\p4\target\scala-2.11\classes\controllers\ReverseAssets.class
+C:\cygwin\home\KG\p4\target\scala-2.11\routes\main\controllers\routes.java -> C:\cygwin\home\KG\p4\target\scala-2.11\classes\controllers\routes$javascript.class
+C:\cygwin\home\KG\p4\target\scala-2.11\routes\main\controllers\routes.java -> C:\cygwin\home\KG\p4\target\scala-2.11\classes\controllers\routes.class
+C:\cygwin\home\KG\p4\target\scala-2.11\routes\main\router\Routes.scala -> C:\cygwin\home\KG\p4\target\scala-2.11\classes\router\Routes$$anonfun$documentation$1.class
+C:\cygwin\home\KG\p4\target\scala-2.11\routes\main\router\Routes.scala -> C:\cygwin\home\KG\p4\target\scala-2.11\classes\router\Routes$$anonfun$router$Routes$$controllers_Application_buy1_invoker$1.class
+C:\cygwin\home\KG\p4\target\scala-2.11\routes\main\router\Routes.scala -> C:\cygwin\home\KG\p4\target\scala-2.11\classes\router\Routes$$anonfun$router$Routes$$controllers_Application_getValues3_invoker$1.class
+C:\cygwin\home\KG\p4\target\scala-2.11\routes\main\router\Routes.scala -> C:\cygwin\home\KG\p4\target\scala-2.11\classes\router\Routes$$anonfun$router$Routes$$controllers_Application_index0_invoker$1.class
+C:\cygwin\home\KG\p4\target\scala-2.11\routes\main\router\Routes.scala -> C:\cygwin\home\KG\p4\target\scala-2.11\classes\router\Routes$$anonfun$router$Routes$$controllers_Application_message8_invoker$1.class
+C:\cygwin\home\KG\p4\target\scala-2.11\routes\main\router\Routes.scala -> C:\cygwin\home\KG\p4\target\scala-2.11\classes\router\Routes$$anonfun$router$Routes$$controllers_Application_priceList9_invoker$1.class
+C:\cygwin\home\KG\p4\target\scala-2.11\routes\main\router\Routes.scala -> C:\cygwin\home\KG\p4\target\scala-2.11\classes\router\Routes$$anonfun$router$Routes$$controllers_Application_selfInventory7_invoker$1.class
+C:\cygwin\home\KG\p4\target\scala-2.11\routes\main\router\Routes.scala -> C:\cygwin\home\KG\p4\target\scala-2.11\classes\router\Routes$$anonfun$router$Routes$$controllers_Application_selfMoney6_invoker$1.class
+C:\cygwin\home\KG\p4\target\scala-2.11\routes\main\router\Routes.scala -> C:\cygwin\home\KG\p4\target\scala-2.11\classes\router\Routes$$anonfun$router$Routes$$controllers_Application_sell2_invoker$1.class
+C:\cygwin\home\KG\p4\target\scala-2.11\routes\main\router\Routes.scala -> C:\cygwin\home\KG\p4\target\scala-2.11\classes\router\Routes$$anonfun$router$Routes$$controllers_Application_storeInventory5_invoker$1.class
+C:\cygwin\home\KG\p4\target\scala-2.11\routes\main\router\Routes.scala -> C:\cygwin\home\KG\p4\target\scala-2.11\classes\router\Routes$$anonfun$router$Routes$$controllers_Application_storeMoney4_invoker$1.class
+C:\cygwin\home\KG\p4\target\scala-2.11\routes\main\router\Routes.scala -> C:\cygwin\home\KG\p4\target\scala-2.11\classes\router\Routes$$anonfun$router$Routes$$controllers_Assets_at10_invoker$1.class
+C:\cygwin\home\KG\p4\target\scala-2.11\routes\main\router\Routes.scala -> C:\cygwin\home\KG\p4\target\scala-2.11\classes\router\Routes$$anonfun$routes$1$$anonfun$applyOrElse$1$$anonfun$apply$1.class
+C:\cygwin\home\KG\p4\target\scala-2.11\routes\main\router\Routes.scala -> C:\cygwin\home\KG\p4\target\scala-2.11\classes\router\Routes$$anonfun$routes$1$$anonfun$applyOrElse$1.class
+C:\cygwin\home\KG\p4\target\scala-2.11\routes\main\router\Routes.scala -> C:\cygwin\home\KG\p4\target\scala-2.11\classes\router\Routes$$anonfun$routes$1$$anonfun$applyOrElse$10$$anonfun$apply$10.class
+C:\cygwin\home\KG\p4\target\scala-2.11\routes\main\router\Routes.scala -> C:\cygwin\home\KG\p4\target\scala-2.11\classes\router\Routes$$anonfun$routes$1$$anonfun$applyOrElse$10.class
+C:\cygwin\home\KG\p4\target\scala-2.11\routes\main\router\Routes.scala -> C:\cygwin\home\KG\p4\target\scala-2.11\classes\router\Routes$$anonfun$routes$1$$anonfun$applyOrElse$11$$anonfun$apply$11.class
+C:\cygwin\home\KG\p4\target\scala-2.11\routes\main\router\Routes.scala -> C:\cygwin\home\KG\p4\target\scala-2.11\classes\router\Routes$$anonfun$routes$1$$anonfun$applyOrElse$11.class
+C:\cygwin\home\KG\p4\target\scala-2.11\routes\main\router\Routes.scala -> C:\cygwin\home\KG\p4\target\scala-2.11\classes\router\Routes$$anonfun$routes$1$$anonfun$applyOrElse$2$$anonfun$apply$2.class
+C:\cygwin\home\KG\p4\target\scala-2.11\routes\main\router\Routes.scala -> C:\cygwin\home\KG\p4\target\scala-2.11\classes\router\Routes$$anonfun$routes$1$$anonfun$applyOrElse$2.class
+C:\cygwin\home\KG\p4\target\scala-2.11\routes\main\router\Routes.scala -> C:\cygwin\home\KG\p4\target\scala-2.11\classes\router\Routes$$anonfun$routes$1$$anonfun$applyOrElse$3$$anonfun$apply$3.class
+C:\cygwin\home\KG\p4\target\scala-2.11\routes\main\router\Routes.scala -> C:\cygwin\home\KG\p4\target\scala-2.11\classes\router\Routes$$anonfun$routes$1$$anonfun$applyOrElse$3.class
+C:\cygwin\home\KG\p4\target\scala-2.11\routes\main\router\Routes.scala -> C:\cygwin\home\KG\p4\target\scala-2.11\classes\router\Routes$$anonfun$routes$1$$anonfun$applyOrElse$4$$anonfun$apply$4.class
+C:\cygwin\home\KG\p4\target\scala-2.11\routes\main\router\Routes.scala -> C:\cygwin\home\KG\p4\target\scala-2.11\classes\router\Routes$$anonfun$routes$1$$anonfun$applyOrElse$4.class
+C:\cygwin\home\KG\p4\target\scala-2.11\routes\main\router\Routes.scala -> C:\cygwin\home\KG\p4\target\scala-2.11\classes\router\Routes$$anonfun$routes$1$$anonfun$applyOrElse$5$$anonfun$apply$5.class
+C:\cygwin\home\KG\p4\target\scala-2.11\routes\main\router\Routes.scala -> C:\cygwin\home\KG\p4\target\scala-2.11\classes\router\Routes$$anonfun$routes$1$$anonfun$applyOrElse$5.class
+C:\cygwin\home\KG\p4\target\scala-2.11\routes\main\router\Routes.scala -> C:\cygwin\home\KG\p4\target\scala-2.11\classes\router\Routes$$anonfun$routes$1$$anonfun$applyOrElse$6$$anonfun$apply$6.class
+C:\cygwin\home\KG\p4\target\scala-2.11\routes\main\router\Routes.scala -> C:\cygwin\home\KG\p4\target\scala-2.11\classes\router\Routes$$anonfun$routes$1$$anonfun$applyOrElse$6.class
+C:\cygwin\home\KG\p4\target\scala-2.11\routes\main\router\Routes.scala -> C:\cygwin\home\KG\p4\target\scala-2.11\classes\router\Routes$$anonfun$routes$1$$anonfun$applyOrElse$7$$anonfun$apply$7.class
+C:\cygwin\home\KG\p4\target\scala-2.11\routes\main\router\Routes.scala -> C:\cygwin\home\KG\p4\target\scala-2.11\classes\router\Routes$$anonfun$routes$1$$anonfun$applyOrElse$7.class
+C:\cygwin\home\KG\p4\target\scala-2.11\routes\main\router\Routes.scala -> C:\cygwin\home\KG\p4\target\scala-2.11\classes\router\Routes$$anonfun$routes$1$$anonfun$applyOrElse$8$$anonfun$apply$8.class
+C:\cygwin\home\KG\p4\target\scala-2.11\routes\main\router\Routes.scala -> C:\cygwin\home\KG\p4\target\scala-2.11\classes\router\Routes$$anonfun$routes$1$$anonfun$applyOrElse$8.class
+C:\cygwin\home\KG\p4\target\scala-2.11\routes\main\router\Routes.scala -> C:\cygwin\home\KG\p4\target\scala-2.11\classes\router\Routes$$anonfun$routes$1$$anonfun$applyOrElse$9$$anonfun$apply$9.class
+C:\cygwin\home\KG\p4\target\scala-2.11\routes\main\router\Routes.scala -> C:\cygwin\home\KG\p4\target\scala-2.11\classes\router\Routes$$anonfun$routes$1$$anonfun$applyOrElse$9.class
+C:\cygwin\home\KG\p4\target\scala-2.11\routes\main\router\Routes.scala -> C:\cygwin\home\KG\p4\target\scala-2.11\classes\router\Routes$$anonfun$routes$1.class
+C:\cygwin\home\KG\p4\target\scala-2.11\routes\main\router\Routes.scala -> C:\cygwin\home\KG\p4\target\scala-2.11\classes\router\Routes.class
+C:\cygwin\home\KG\p4\target\scala-2.11\routes\main\router\RoutesPrefix.scala -> C:\cygwin\home\KG\p4\target\scala-2.11\classes\router\RoutesPrefix$$anonfun$1.class
+C:\cygwin\home\KG\p4\target\scala-2.11\routes\main\router\RoutesPrefix.scala -> C:\cygwin\home\KG\p4\target\scala-2.11\classes\router\RoutesPrefix$.class
+C:\cygwin\home\KG\p4\target\scala-2.11\routes\main\router\RoutesPrefix.scala -> C:\cygwin\home\KG\p4\target\scala-2.11\classes\router\RoutesPrefix.class
+C:\cygwin\home\KG\p4\target\scala-2.11\twirl\main\views\html\index.template.scala -> C:\cygwin\home\KG\p4\target\scala-2.11\classes\views\html\index$.class
+C:\cygwin\home\KG\p4\target\scala-2.11\twirl\main\views\html\index.template.scala -> C:\cygwin\home\KG\p4\target\scala-2.11\classes\views\html\index.class
+C:\cygwin\home\KG\p4\target\scala-2.11\twirl\main\views\html\index.template.scala -> C:\cygwin\home\KG\p4\target\scala-2.11\classes\views\html\index_Scope0$.class
+C:\cygwin\home\KG\p4\target\scala-2.11\twirl\main\views\html\index.template.scala -> C:\cygwin\home\KG\p4\target\scala-2.11\classes\views\html\index_Scope0$index$$anonfun$f$1.class
+C:\cygwin\home\KG\p4\target\scala-2.11\twirl\main\views\html\index.template.scala -> C:\cygwin\home\KG\p4\target\scala-2.11\classes\views\html\index_Scope0$index.class
+C:\cygwin\home\KG\p4\target\scala-2.11\twirl\main\views\html\index.template.scala -> C:\cygwin\home\KG\p4\target\scala-2.11\classes\views\html\index_Scope0.class
+C:\cygwin\home\KG\p4\target\scala-2.11\twirl\main\views\html\main.template.scala -> C:\cygwin\home\KG\p4\target\scala-2.11\classes\views\html\main$.class
+C:\cygwin\home\KG\p4\target\scala-2.11\twirl\main\views\html\main.template.scala -> C:\cygwin\home\KG\p4\target\scala-2.11\classes\views\html\main.class
+C:\cygwin\home\KG\p4\target\scala-2.11\twirl\main\views\html\main.template.scala -> C:\cygwin\home\KG\p4\target\scala-2.11\classes\views\html\main_Scope0$.class
+C:\cygwin\home\KG\p4\target\scala-2.11\twirl\main\views\html\main.template.scala -> C:\cygwin\home\KG\p4\target\scala-2.11\classes\views\html\main_Scope0$main$$anonfun$f$1$$anonfun$apply$1.class
+C:\cygwin\home\KG\p4\target\scala-2.11\twirl\main\views\html\main.template.scala -> C:\cygwin\home\KG\p4\target\scala-2.11\classes\views\html\main_Scope0$main$$anonfun$f$1.class
+C:\cygwin\home\KG\p4\target\scala-2.11\twirl\main\views\html\main.template.scala -> C:\cygwin\home\KG\p4\target\scala-2.11\classes\views\html\main_Scope0$main.class
+C:\cygwin\home\KG\p4\target\scala-2.11\twirl\main\views\html\main.template.scala -> C:\cygwin\home\KG\p4\target\scala-2.11\classes\views\html\main_Scope0.class
+binary dependencies:
+30 items
+C:\cygwin\home\KG\p4\app\controllers\Application.java -> C:\Program Files\Java\jdk1.8.0_25\jre\lib\rt.jar
+C:\cygwin\home\KG\p4\app\controllers\Application.java -> C:\Users\KG\.ivy2\cache\com.typesafe.play\play-java-jpa_2.11\jars\play-java-jpa_2.11-2.5.2.jar
+C:\cygwin\home\KG\p4\app\controllers\Application.java -> C:\Users\KG\.ivy2\cache\com.typesafe.play\play-java_2.11\jars\play-java_2.11-2.5.2.jar
+C:\cygwin\home\KG\p4\app\controllers\Application.java -> C:\Users\KG\.ivy2\cache\com.typesafe.play\play-json_2.11\jars\play-json_2.11-2.5.2.jar
+C:\cygwin\home\KG\p4\app\controllers\Application.java -> C:\Users\KG\.ivy2\cache\com.typesafe.play\play_2.11\jars\play_2.11-2.5.2.jar
+C:\cygwin\home\KG\p4\app\controllers\Application.java -> C:\Users\KG\.ivy2\cache\org.hibernate.javax.persistence\hibernate-jpa-2.1-api\jars\hibernate-jpa-2.1-api-1.0.0.Final.jar
+C:\cygwin\home\KG\p4\app\models\Inventory.java -> C:\Program Files\Java\jdk1.8.0_25\jre\lib\rt.jar
+C:\cygwin\home\KG\p4\app\models\Value.java -> C:\Program Files\Java\jdk1.8.0_25\jre\lib\rt.jar
+C:\cygwin\home\KG\p4\target\scala-2.11\routes\main\controllers\javascript\JavaScriptReverseRoutes.scala -> C:\Program Files\Java\jdk1.8.0_25\jre\lib\rt.jar
+C:\cygwin\home\KG\p4\target\scala-2.11\routes\main\controllers\javascript\JavaScriptReverseRoutes.scala -> C:\Users\KG\.ivy2\cache\com.typesafe.play\play_2.11\jars\play_2.11-2.5.2.jar
+C:\cygwin\home\KG\p4\target\scala-2.11\routes\main\controllers\javascript\JavaScriptReverseRoutes.scala -> C:\Users\KG\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.7.jar
+C:\cygwin\home\KG\p4\target\scala-2.11\routes\main\controllers\ReverseRoutes.scala -> C:\Program Files\Java\jdk1.8.0_25\jre\lib\rt.jar
+C:\cygwin\home\KG\p4\target\scala-2.11\routes\main\controllers\ReverseRoutes.scala -> C:\Users\KG\.ivy2\cache\com.typesafe.play\play_2.11\jars\play_2.11-2.5.2.jar
+C:\cygwin\home\KG\p4\target\scala-2.11\routes\main\controllers\ReverseRoutes.scala -> C:\Users\KG\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.7.jar
+C:\cygwin\home\KG\p4\target\scala-2.11\routes\main\controllers\routes.java -> C:\Program Files\Java\jdk1.8.0_25\jre\lib\rt.jar
+C:\cygwin\home\KG\p4\target\scala-2.11\routes\main\router\Routes.scala -> C:\Program Files\Java\jdk1.8.0_25\jre\lib\rt.jar
+C:\cygwin\home\KG\p4\target\scala-2.11\routes\main\router\Routes.scala -> C:\Users\KG\.ivy2\cache\com.typesafe.play\play_2.11\jars\play_2.11-2.5.2.jar
+C:\cygwin\home\KG\p4\target\scala-2.11\routes\main\router\Routes.scala -> C:\Users\KG\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.7.jar
+C:\cygwin\home\KG\p4\target\scala-2.11\routes\main\router\RoutesPrefix.scala -> C:\Program Files\Java\jdk1.8.0_25\jre\lib\rt.jar
+C:\cygwin\home\KG\p4\target\scala-2.11\routes\main\router\RoutesPrefix.scala -> C:\Users\KG\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.7.jar
+C:\cygwin\home\KG\p4\target\scala-2.11\twirl\main\views\html\index.template.scala -> C:\Program Files\Java\jdk1.8.0_25\jre\lib\rt.jar
+C:\cygwin\home\KG\p4\target\scala-2.11\twirl\main\views\html\index.template.scala -> C:\Users\KG\.ivy2\cache\com.typesafe.play\play-java_2.11\jars\play-java_2.11-2.5.2.jar
+C:\cygwin\home\KG\p4\target\scala-2.11\twirl\main\views\html\index.template.scala -> C:\Users\KG\.ivy2\cache\com.typesafe.play\play_2.11\jars\play_2.11-2.5.2.jar
+C:\cygwin\home\KG\p4\target\scala-2.11\twirl\main\views\html\index.template.scala -> C:\Users\KG\.ivy2\cache\com.typesafe.play\twirl-api_2.11\jars\twirl-api_2.11-1.1.1.jar
+C:\cygwin\home\KG\p4\target\scala-2.11\twirl\main\views\html\index.template.scala -> C:\Users\KG\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.7.jar
+C:\cygwin\home\KG\p4\target\scala-2.11\twirl\main\views\html\main.template.scala -> C:\Program Files\Java\jdk1.8.0_25\jre\lib\rt.jar
+C:\cygwin\home\KG\p4\target\scala-2.11\twirl\main\views\html\main.template.scala -> C:\Users\KG\.ivy2\cache\com.typesafe.play\play-java_2.11\jars\play-java_2.11-2.5.2.jar
+C:\cygwin\home\KG\p4\target\scala-2.11\twirl\main\views\html\main.template.scala -> C:\Users\KG\.ivy2\cache\com.typesafe.play\play_2.11\jars\play_2.11-2.5.2.jar
+C:\cygwin\home\KG\p4\target\scala-2.11\twirl\main\views\html\main.template.scala -> C:\Users\KG\.ivy2\cache\com.typesafe.play\twirl-api_2.11\jars\twirl-api_2.11-1.1.1.jar
+C:\cygwin\home\KG\p4\target\scala-2.11\twirl\main\views\html\main.template.scala -> C:\Users\KG\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.7.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+19 items
+C:\cygwin\home\KG\p4\app\controllers\Application.java -> C:\cygwin\home\KG\p4\app\controllers\Application.java
+C:\cygwin\home\KG\p4\app\controllers\Application.java -> C:\cygwin\home\KG\p4\app\models\Inventory.java
+C:\cygwin\home\KG\p4\app\controllers\Application.java -> C:\cygwin\home\KG\p4\app\models\Value.java
+C:\cygwin\home\KG\p4\app\controllers\Application.java -> C:\cygwin\home\KG\p4\target\scala-2.11\routes\main\controllers\ReverseRoutes.scala
+C:\cygwin\home\KG\p4\app\controllers\Application.java -> C:\cygwin\home\KG\p4\target\scala-2.11\routes\main\controllers\routes.java
+C:\cygwin\home\KG\p4\app\controllers\Application.java -> C:\cygwin\home\KG\p4\target\scala-2.11\twirl\main\views\html\index.template.scala
+C:\cygwin\home\KG\p4\app\models\Inventory.java -> C:\cygwin\home\KG\p4\app\models\Inventory.java
+C:\cygwin\home\KG\p4\app\models\Value.java -> C:\cygwin\home\KG\p4\app\models\Value.java
+C:\cygwin\home\KG\p4\target\scala-2.11\routes\main\controllers\routes.java -> C:\cygwin\home\KG\p4\target\scala-2.11\routes\main\controllers\ReverseRoutes.scala
+C:\cygwin\home\KG\p4\target\scala-2.11\routes\main\controllers\routes.java -> C:\cygwin\home\KG\p4\target\scala-2.11\routes\main\controllers\javascript\JavaScriptReverseRoutes.scala
+C:\cygwin\home\KG\p4\target\scala-2.11\routes\main\controllers\routes.java -> C:\cygwin\home\KG\p4\target\scala-2.11\routes\main\controllers\routes.java
+C:\cygwin\home\KG\p4\target\scala-2.11\routes\main\controllers\routes.java -> C:\cygwin\home\KG\p4\target\scala-2.11\routes\main\router\RoutesPrefix.scala
+C:\cygwin\home\KG\p4\target\scala-2.11\routes\main\router\Routes.scala -> C:\cygwin\home\KG\p4\app\controllers\Application.java
+C:\cygwin\home\KG\p4\target\scala-2.11\routes\main\router\Routes.scala -> C:\cygwin\home\KG\p4\target\scala-2.11\routes\main\router\RoutesPrefix.scala
+C:\cygwin\home\KG\p4\target\scala-2.11\twirl\main\views\html\index.template.scala -> C:\cygwin\home\KG\p4\target\scala-2.11\routes\main\controllers\ReverseRoutes.scala
+C:\cygwin\home\KG\p4\target\scala-2.11\twirl\main\views\html\index.template.scala -> C:\cygwin\home\KG\p4\target\scala-2.11\routes\main\controllers\routes.java
+C:\cygwin\home\KG\p4\target\scala-2.11\twirl\main\views\html\index.template.scala -> C:\cygwin\home\KG\p4\target\scala-2.11\twirl\main\views\html\main.template.scala
+C:\cygwin\home\KG\p4\target\scala-2.11\twirl\main\views\html\main.template.scala -> C:\cygwin\home\KG\p4\target\scala-2.11\routes\main\controllers\ReverseRoutes.scala
+C:\cygwin\home\KG\p4\target\scala-2.11\twirl\main\views\html\main.template.scala -> C:\cygwin\home\KG\p4\target\scala-2.11\routes\main\controllers\routes.java
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+61 items
+C:\cygwin\home\KG\p4\app\controllers\Application.java -> controllers.Application
+C:\cygwin\home\KG\p4\app\models\Inventory.java -> models.Inventory
+C:\cygwin\home\KG\p4\app\models\Value.java -> models.Value
+C:\cygwin\home\KG\p4\target\scala-2.11\routes\main\controllers\javascript\JavaScriptReverseRoutes.scala -> controllers.javascript.ReverseApplication
+C:\cygwin\home\KG\p4\target\scala-2.11\routes\main\controllers\javascript\JavaScriptReverseRoutes.scala -> controllers.javascript.ReverseAssets
+C:\cygwin\home\KG\p4\target\scala-2.11\routes\main\controllers\ReverseRoutes.scala -> controllers.ReverseApplication
+C:\cygwin\home\KG\p4\target\scala-2.11\routes\main\controllers\ReverseRoutes.scala -> controllers.ReverseAssets
+C:\cygwin\home\KG\p4\target\scala-2.11\routes\main\controllers\routes.java -> controllers.routes
+C:\cygwin\home\KG\p4\target\scala-2.11\routes\main\controllers\routes.java -> controllers.routes$javascript
+C:\cygwin\home\KG\p4\target\scala-2.11\routes\main\router\Routes.scala -> router.Routes
+C:\cygwin\home\KG\p4\target\scala-2.11\routes\main\router\Routes.scala -> router.Routes$$anonfun$documentation$1
+C:\cygwin\home\KG\p4\target\scala-2.11\routes\main\router\Routes.scala -> router.Routes$$anonfun$router$Routes$$controllers_Application_buy1_invoker$1
+C:\cygwin\home\KG\p4\target\scala-2.11\routes\main\router\Routes.scala -> router.Routes$$anonfun$router$Routes$$controllers_Application_getValues3_invoker$1
+C:\cygwin\home\KG\p4\target\scala-2.11\routes\main\router\Routes.scala -> router.Routes$$anonfun$router$Routes$$controllers_Application_index0_invoker$1
+C:\cygwin\home\KG\p4\target\scala-2.11\routes\main\router\Routes.scala -> router.Routes$$anonfun$router$Routes$$controllers_Application_message8_invoker$1
+C:\cygwin\home\KG\p4\target\scala-2.11\routes\main\router\Routes.scala -> router.Routes$$anonfun$router$Routes$$controllers_Application_priceList9_invoker$1
+C:\cygwin\home\KG\p4\target\scala-2.11\routes\main\router\Routes.scala -> router.Routes$$anonfun$router$Routes$$controllers_Application_selfInventory7_invoker$1
+C:\cygwin\home\KG\p4\target\scala-2.11\routes\main\router\Routes.scala -> router.Routes$$anonfun$router$Routes$$controllers_Application_selfMoney6_invoker$1
+C:\cygwin\home\KG\p4\target\scala-2.11\routes\main\router\Routes.scala -> router.Routes$$anonfun$router$Routes$$controllers_Application_sell2_invoker$1
+C:\cygwin\home\KG\p4\target\scala-2.11\routes\main\router\Routes.scala -> router.Routes$$anonfun$router$Routes$$controllers_Application_storeInventory5_invoker$1
+C:\cygwin\home\KG\p4\target\scala-2.11\routes\main\router\Routes.scala -> router.Routes$$anonfun$router$Routes$$controllers_Application_storeMoney4_invoker$1
+C:\cygwin\home\KG\p4\target\scala-2.11\routes\main\router\Routes.scala -> router.Routes$$anonfun$router$Routes$$controllers_Assets_at10_invoker$1
+C:\cygwin\home\KG\p4\target\scala-2.11\routes\main\router\Routes.scala -> router.Routes$$anonfun$routes$1
+C:\cygwin\home\KG\p4\target\scala-2.11\routes\main\router\Routes.scala -> router.Routes$$anonfun$routes$1$$anonfun$applyOrElse$1
+C:\cygwin\home\KG\p4\target\scala-2.11\routes\main\router\Routes.scala -> router.Routes$$anonfun$routes$1$$anonfun$applyOrElse$1$$anonfun$apply$1
+C:\cygwin\home\KG\p4\target\scala-2.11\routes\main\router\Routes.scala -> router.Routes$$anonfun$routes$1$$anonfun$applyOrElse$10
+C:\cygwin\home\KG\p4\target\scala-2.11\routes\main\router\Routes.scala -> router.Routes$$anonfun$routes$1$$anonfun$applyOrElse$10$$anonfun$apply$10
+C:\cygwin\home\KG\p4\target\scala-2.11\routes\main\router\Routes.scala -> router.Routes$$anonfun$routes$1$$anonfun$applyOrElse$11
+C:\cygwin\home\KG\p4\target\scala-2.11\routes\main\router\Routes.scala -> router.Routes$$anonfun$routes$1$$anonfun$applyOrElse$11$$anonfun$apply$11
+C:\cygwin\home\KG\p4\target\scala-2.11\routes\main\router\Routes.scala -> router.Routes$$anonfun$routes$1$$anonfun$applyOrElse$2
+C:\cygwin\home\KG\p4\target\scala-2.11\routes\main\router\Routes.scala -> router.Routes$$anonfun$routes$1$$anonfun$applyOrElse$2$$anonfun$apply$2
+C:\cygwin\home\KG\p4\target\scala-2.11\routes\main\router\Routes.scala -> router.Routes$$anonfun$routes$1$$anonfun$applyOrElse$3
+C:\cygwin\home\KG\p4\target\scala-2.11\routes\main\router\Routes.scala -> router.Routes$$anonfun$routes$1$$anonfun$applyOrElse$3$$anonfun$apply$3
+C:\cygwin\home\KG\p4\target\scala-2.11\routes\main\router\Routes.scala -> router.Routes$$anonfun$routes$1$$anonfun$applyOrElse$4
+C:\cygwin\home\KG\p4\target\scala-2.11\routes\main\router\Routes.scala -> router.Routes$$anonfun$routes$1$$anonfun$applyOrElse$4$$anonfun$apply$4
+C:\cygwin\home\KG\p4\target\scala-2.11\routes\main\router\Routes.scala -> router.Routes$$anonfun$routes$1$$anonfun$applyOrElse$5
+C:\cygwin\home\KG\p4\target\scala-2.11\routes\main\router\Routes.scala -> router.Routes$$anonfun$routes$1$$anonfun$applyOrElse$5$$anonfun$apply$5
+C:\cygwin\home\KG\p4\target\scala-2.11\routes\main\router\Routes.scala -> router.Routes$$anonfun$routes$1$$anonfun$applyOrElse$6
+C:\cygwin\home\KG\p4\target\scala-2.11\routes\main\router\Routes.scala -> router.Routes$$anonfun$routes$1$$anonfun$applyOrElse$6$$anonfun$apply$6
+C:\cygwin\home\KG\p4\target\scala-2.11\routes\main\router\Routes.scala -> router.Routes$$anonfun$routes$1$$anonfun$applyOrElse$7
+C:\cygwin\home\KG\p4\target\scala-2.11\routes\main\router\Routes.scala -> router.Routes$$anonfun$routes$1$$anonfun$applyOrElse$7$$anonfun$apply$7
+C:\cygwin\home\KG\p4\target\scala-2.11\routes\main\router\Routes.scala -> router.Routes$$anonfun$routes$1$$anonfun$applyOrElse$8
+C:\cygwin\home\KG\p4\target\scala-2.11\routes\main\router\Routes.scala -> router.Routes$$anonfun$routes$1$$anonfun$applyOrElse$8$$anonfun$apply$8
+C:\cygwin\home\KG\p4\target\scala-2.11\routes\main\router\Routes.scala -> router.Routes$$anonfun$routes$1$$anonfun$applyOrElse$9
+C:\cygwin\home\KG\p4\target\scala-2.11\routes\main\router\Routes.scala -> router.Routes$$anonfun$routes$1$$anonfun$applyOrElse$9$$anonfun$apply$9
+C:\cygwin\home\KG\p4\target\scala-2.11\routes\main\router\RoutesPrefix.scala -> router.RoutesPrefix
+C:\cygwin\home\KG\p4\target\scala-2.11\routes\main\router\RoutesPrefix.scala -> router.RoutesPrefix$
+C:\cygwin\home\KG\p4\target\scala-2.11\routes\main\router\RoutesPrefix.scala -> router.RoutesPrefix$$anonfun$1
+C:\cygwin\home\KG\p4\target\scala-2.11\twirl\main\views\html\index.template.scala -> views.html.index
+C:\cygwin\home\KG\p4\target\scala-2.11\twirl\main\views\html\index.template.scala -> views.html.index$
+C:\cygwin\home\KG\p4\target\scala-2.11\twirl\main\views\html\index.template.scala -> views.html.index_Scope0
+C:\cygwin\home\KG\p4\target\scala-2.11\twirl\main\views\html\index.template.scala -> views.html.index_Scope0$
+C:\cygwin\home\KG\p4\target\scala-2.11\twirl\main\views\html\index.template.scala -> views.html.index_Scope0$index
+C:\cygwin\home\KG\p4\target\scala-2.11\twirl\main\views\html\index.template.scala -> views.html.index_Scope0$index$$anonfun$f$1
+C:\cygwin\home\KG\p4\target\scala-2.11\twirl\main\views\html\main.template.scala -> views.html.main
+C:\cygwin\home\KG\p4\target\scala-2.11\twirl\main\views\html\main.template.scala -> views.html.main$
+C:\cygwin\home\KG\p4\target\scala-2.11\twirl\main\views\html\main.template.scala -> views.html.main_Scope0
+C:\cygwin\home\KG\p4\target\scala-2.11\twirl\main\views\html\main.template.scala -> views.html.main_Scope0$
+C:\cygwin\home\KG\p4\target\scala-2.11\twirl\main\views\html\main.template.scala -> views.html.main_Scope0$main
+C:\cygwin\home\KG\p4\target\scala-2.11\twirl\main\views\html\main.template.scala -> views.html.main_Scope0$main$$anonfun$f$1
+C:\cygwin\home\KG\p4\target\scala-2.11\twirl\main\views\html\main.template.scala -> views.html.main_Scope0$main$$anonfun$f$1$$anonfun$apply$1
+used names:
+307 items
+C:\cygwin\home\KG\p4\target\scala-2.11\routes\main\controllers\javascript\JavaScriptReverseRoutes.scala -> +
+C:\cygwin\home\KG\p4\target\scala-2.11\routes\main\controllers\javascript\JavaScriptReverseRoutes.scala -> <byname>
+C:\cygwin\home\KG\p4\target\scala-2.11\routes\main\controllers\javascript\JavaScriptReverseRoutes.scala -> <init>
+C:\cygwin\home\KG\p4\target\scala-2.11\routes\main\controllers\javascript\JavaScriptReverseRoutes.scala -> AnyRef
+C:\cygwin\home\KG\p4\target\scala-2.11\routes\main\controllers\javascript\JavaScriptReverseRoutes.scala -> Asset
+C:\cygwin\home\KG\p4\target\scala-2.11\routes\main\controllers\javascript\JavaScriptReverseRoutes.scala -> Assets
+C:\cygwin\home\KG\p4\target\scala-2.11\routes\main\controllers\javascript\JavaScriptReverseRoutes.scala -> Call
+C:\cygwin\home\KG\p4\target\scala-2.11\routes\main\controllers\javascript\JavaScriptReverseRoutes.scala -> F
+C:\cygwin\home\KG\p4\target\scala-2.11\routes\main\controllers\javascript\JavaScriptReverseRoutes.scala -> HandlerDef
+C:\cygwin\home\KG\p4\target\scala-2.11\routes\main\controllers\javascript\JavaScriptReverseRoutes.scala -> JavaScriptReverseRoute
+C:\cygwin\home\KG\p4\target\scala-2.11\routes\main\controllers\javascript\JavaScriptReverseRoutes.scala -> JavascriptLiteral
+C:\cygwin\home\KG\p4\target\scala-2.11\routes\main\controllers\javascript\JavaScriptReverseRoutes.scala -> PathBindable
+C:\cygwin\home\KG\p4\target\scala-2.11\routes\main\controllers\javascript\JavaScriptReverseRoutes.scala -> Predef
+C:\cygwin\home\KG\p4\target\scala-2.11\routes\main\controllers\javascript\JavaScriptReverseRoutes.scala -> QueryStringBindable
+C:\cygwin\home\KG\p4\target\scala-2.11\routes\main\controllers\javascript\JavaScriptReverseRoutes.scala -> ReverseApplication
+C:\cygwin\home\KG\p4\target\scala-2.11\routes\main\controllers\javascript\JavaScriptReverseRoutes.scala -> ReverseAssets
+C:\cygwin\home\KG\p4\target\scala-2.11\routes\main\controllers\javascript\JavaScriptReverseRoutes.scala -> ReverseRouteContext
+C:\cygwin\home\KG\p4\target\scala-2.11\routes\main\controllers\javascript\JavaScriptReverseRoutes.scala -> String
+C:\cygwin\home\KG\p4\target\scala-2.11\routes\main\controllers\javascript\JavaScriptReverseRoutes.scala -> _defaultPrefix
+C:\cygwin\home\KG\p4\target\scala-2.11\routes\main\controllers\javascript\JavaScriptReverseRoutes.scala -> _prefix
+C:\cygwin\home\KG\p4\target\scala-2.11\routes\main\controllers\javascript\JavaScriptReverseRoutes.scala -> _root_
+C:\cygwin\home\KG\p4\target\scala-2.11\routes\main\controllers\javascript\JavaScriptReverseRoutes.scala -> api
+C:\cygwin\home\KG\p4\target\scala-2.11\routes\main\controllers\javascript\JavaScriptReverseRoutes.scala -> bindableString
+C:\cygwin\home\KG\p4\target\scala-2.11\routes\main\controllers\javascript\JavaScriptReverseRoutes.scala -> controllers
+C:\cygwin\home\KG\p4\target\scala-2.11\routes\main\controllers\javascript\JavaScriptReverseRoutes.scala -> core
+C:\cygwin\home\KG\p4\target\scala-2.11\routes\main\controllers\javascript\JavaScriptReverseRoutes.scala -> dynamicString
+C:\cygwin\home\KG\p4\target\scala-2.11\routes\main\controllers\javascript\JavaScriptReverseRoutes.scala -> empty
+C:\cygwin\home\KG\p4\target\scala-2.11\routes\main\controllers\javascript\JavaScriptReverseRoutes.scala -> endsWith
+C:\cygwin\home\KG\p4\target\scala-2.11\routes\main\controllers\javascript\JavaScriptReverseRoutes.scala -> implicitly
+C:\cygwin\home\KG\p4\target\scala-2.11\routes\main\controllers\javascript\JavaScriptReverseRoutes.scala -> javascript
+C:\cygwin\home\KG\p4\target\scala-2.11\routes\main\controllers\javascript\JavaScriptReverseRoutes.scala -> javascriptUnbind
+C:\cygwin\home\KG\p4\target\scala-2.11\routes\main\controllers\javascript\JavaScriptReverseRoutes.scala -> libs
+C:\cygwin\home\KG\p4\target\scala-2.11\routes\main\controllers\javascript\JavaScriptReverseRoutes.scala -> mvc
+C:\cygwin\home\KG\p4\target\scala-2.11\routes\main\controllers\javascript\JavaScriptReverseRoutes.scala -> play
+C:\cygwin\home\KG\p4\target\scala-2.11\routes\main\controllers\javascript\JavaScriptReverseRoutes.scala -> queryString
+C:\cygwin\home\KG\p4\target\scala-2.11\routes\main\controllers\javascript\JavaScriptReverseRoutes.scala -> routing
+C:\cygwin\home\KG\p4\target\scala-2.11\routes\main\controllers\javascript\JavaScriptReverseRoutes.scala -> scala
+C:\cygwin\home\KG\p4\target\scala-2.11\routes\main\controllers\ReverseRoutes.scala -> +
+C:\cygwin\home\KG\p4\target\scala-2.11\routes\main\controllers\ReverseRoutes.scala -> <byname>
+C:\cygwin\home\KG\p4\target\scala-2.11\routes\main\controllers\ReverseRoutes.scala -> <init>
+C:\cygwin\home\KG\p4\target\scala-2.11\routes\main\controllers\ReverseRoutes.scala -> AnyRef
+C:\cygwin\home\KG\p4\target\scala-2.11\routes\main\controllers\ReverseRoutes.scala -> Asset
+C:\cygwin\home\KG\p4\target\scala-2.11\routes\main\controllers\ReverseRoutes.scala -> Assets
+C:\cygwin\home\KG\p4\target\scala-2.11\routes\main\controllers\ReverseRoutes.scala -> Call
+C:\cygwin\home\KG\p4\target\scala-2.11\routes\main\controllers\ReverseRoutes.scala -> F
+C:\cygwin\home\KG\p4\target\scala-2.11\routes\main\controllers\ReverseRoutes.scala -> HandlerDef
+C:\cygwin\home\KG\p4\target\scala-2.11\routes\main\controllers\ReverseRoutes.scala -> JavascriptLiteral
+C:\cygwin\home\KG\p4\target\scala-2.11\routes\main\controllers\ReverseRoutes.scala -> Map
+C:\cygwin\home\KG\p4\target\scala-2.11\routes\main\controllers\ReverseRoutes.scala -> PathBindable
+C:\cygwin\home\KG\p4\target\scala-2.11\routes\main\controllers\ReverseRoutes.scala -> Predef
+C:\cygwin\home\KG\p4\target\scala-2.11\routes\main\controllers\ReverseRoutes.scala -> QueryStringBindable
+C:\cygwin\home\KG\p4\target\scala-2.11\routes\main\controllers\ReverseRoutes.scala -> ReverseApplication
+C:\cygwin\home\KG\p4\target\scala-2.11\routes\main\controllers\ReverseRoutes.scala -> ReverseAssets
+C:\cygwin\home\KG\p4\target\scala-2.11\routes\main\controllers\ReverseRoutes.scala -> ReverseRouteContext
+C:\cygwin\home\KG\p4\target\scala-2.11\routes\main\controllers\ReverseRoutes.scala -> String
+C:\cygwin\home\KG\p4\target\scala-2.11\routes\main\controllers\ReverseRoutes.scala -> _defaultPrefix
+C:\cygwin\home\KG\p4\target\scala-2.11\routes\main\controllers\ReverseRoutes.scala -> _prefix
+C:\cygwin\home\KG\p4\target\scala-2.11\routes\main\controllers\ReverseRoutes.scala -> _root_
+C:\cygwin\home\KG\p4\target\scala-2.11\routes\main\controllers\ReverseRoutes.scala -> api
+C:\cygwin\home\KG\p4\target\scala-2.11\routes\main\controllers\ReverseRoutes.scala -> apply
+C:\cygwin\home\KG\p4\target\scala-2.11\routes\main\controllers\ReverseRoutes.scala -> bindableString
+C:\cygwin\home\KG\p4\target\scala-2.11\routes\main\controllers\ReverseRoutes.scala -> controllers
+C:\cygwin\home\KG\p4\target\scala-2.11\routes\main\controllers\ReverseRoutes.scala -> core
+C:\cygwin\home\KG\p4\target\scala-2.11\routes\main\controllers\ReverseRoutes.scala -> dynamicString
+C:\cygwin\home\KG\p4\target\scala-2.11\routes\main\controllers\ReverseRoutes.scala -> empty
+C:\cygwin\home\KG\p4\target\scala-2.11\routes\main\controllers\ReverseRoutes.scala -> endsWith
+C:\cygwin\home\KG\p4\target\scala-2.11\routes\main\controllers\ReverseRoutes.scala -> file
+C:\cygwin\home\KG\p4\target\scala-2.11\routes\main\controllers\ReverseRoutes.scala -> implicitly
+C:\cygwin\home\KG\p4\target\scala-2.11\routes\main\controllers\ReverseRoutes.scala -> libs
+C:\cygwin\home\KG\p4\target\scala-2.11\routes\main\controllers\ReverseRoutes.scala -> mvc
+C:\cygwin\home\KG\p4\target\scala-2.11\routes\main\controllers\ReverseRoutes.scala -> play
+C:\cygwin\home\KG\p4\target\scala-2.11\routes\main\controllers\ReverseRoutes.scala -> queryString
+C:\cygwin\home\KG\p4\target\scala-2.11\routes\main\controllers\ReverseRoutes.scala -> routing
+C:\cygwin\home\KG\p4\target\scala-2.11\routes\main\controllers\ReverseRoutes.scala -> scala
+C:\cygwin\home\KG\p4\target\scala-2.11\routes\main\controllers\ReverseRoutes.scala -> unbind
+C:\cygwin\home\KG\p4\target\scala-2.11\routes\main\router\Routes.scala -> +
+C:\cygwin\home\KG\p4\target\scala-2.11\routes\main\router\Routes.scala -> ++
+C:\cygwin\home\KG\p4\target\scala-2.11\routes\main\router\Routes.scala -> :+
+C:\cygwin\home\KG\p4\target\scala-2.11\routes\main\router\Routes.scala -> <init>
+C:\cygwin\home\KG\p4\target\scala-2.11\routes\main\router\Routes.scala -> A1
+C:\cygwin\home\KG\p4\target\scala-2.11\routes\main\router\Routes.scala -> Any
+C:\cygwin\home\KG\p4\target\scala-2.11\routes\main\router\Routes.scala -> Application
+C:\cygwin\home\KG\p4\target\scala-2.11\routes\main\router\Routes.scala -> Application_1
+C:\cygwin\home\KG\p4\target\scala-2.11\routes\main\router\Routes.scala -> Asset
+C:\cygwin\home\KG\p4\target\scala-2.11\routes\main\router\Routes.scala -> Assets
+C:\cygwin\home\KG\p4\target\scala-2.11\routes\main\router\Routes.scala -> Assets_0
+C:\cygwin\home\KG\p4\target\scala-2.11\routes\main\router\Routes.scala -> B1
+C:\cygwin\home\KG\p4\target\scala-2.11\routes\main\router\Routes.scala -> F
+C:\cygwin\home\KG\p4\target\scala-2.11\routes\main\router\Routes.scala -> Function1
+C:\cygwin\home\KG\p4\target\scala-2.11\routes\main\router\Routes.scala -> GeneratedRouter
+C:\cygwin\home\KG\p4\target\scala-2.11\routes\main\router\Routes.scala -> Handler
+C:\cygwin\home\KG\p4\target\scala-2.11\routes\main\router\Routes.scala -> HandlerInvokerFactory
+C:\cygwin\home\KG\p4\target\scala-2.11\routes\main\router\Routes.scala -> HttpErrorHandler
+C:\cygwin\home\KG\p4\target\scala-2.11\routes\main\router\Routes.scala -> List
+C:\cygwin\home\KG\p4\target\scala-2.11\routes\main\router\Routes.scala -> Nil
+C:\cygwin\home\KG\p4\target\scala-2.11\routes\main\router\Routes.scala -> None
+C:\cygwin\home\KG\p4\target\scala-2.11\routes\main\router\Routes.scala -> PartialFunction
+C:\cygwin\home\KG\p4\target\scala-2.11\routes\main\router\Routes.scala -> PathBindable
+C:\cygwin\home\KG\p4\target\scala-2.11\routes\main\router\Routes.scala -> Predef
+C:\cygwin\home\KG\p4\target\scala-2.11\routes\main\router\Routes.scala -> RequestHeader
+C:\cygwin\home\KG\p4\target\scala-2.11\routes\main\router\Routes.scala -> ReverseRouteContext
+C:\cygwin\home\KG\p4\target\scala-2.11\routes\main\router\Routes.scala -> Right
+C:\cygwin\home\KG\p4\target\scala-2.11\routes\main\router\Routes.scala -> Route
+C:\cygwin\home\KG\p4\target\scala-2.11\routes\main\router\Routes.scala -> Routes
+C:\cygwin\home\KG\p4\target\scala-2.11\routes\main\router\Routes.scala -> RoutesPrefix
+C:\cygwin\home\KG\p4\target\scala-2.11\routes\main\router\Routes.scala -> Seq
+C:\cygwin\home\KG\p4\target\scala-2.11\routes\main\router\Routes.scala -> String
+C:\cygwin\home\KG\p4\target\scala-2.11\routes\main\router\Routes.scala -> Tuple3
+C:\cygwin\home\KG\p4\target\scala-2.11\routes\main\router\Routes.scala -> api
+C:\cygwin\home\KG\p4\target\scala-2.11\routes\main\router\Routes.scala -> apply
+C:\cygwin\home\KG\p4\target\scala-2.11\routes\main\router\Routes.scala -> asInstanceOf
+C:\cygwin\home\KG\p4\target\scala-2.11\routes\main\router\Routes.scala -> at
+C:\cygwin\home\KG\p4\target\scala-2.11\routes\main\router\Routes.scala -> bindableString
+C:\cygwin\home\KG\p4\target\scala-2.11\routes\main\router\Routes.scala -> buy
+C:\cygwin\home\KG\p4\target\scala-2.11\routes\main\router\Routes.scala -> call
+C:\cygwin\home\KG\p4\target\scala-2.11\routes\main\router\Routes.scala -> canBuildFrom
+C:\cygwin\home\KG\p4\target\scala-2.11\routes\main\router\Routes.scala -> collection
+C:\cygwin\home\KG\p4\target\scala-2.11\routes\main\router\Routes.scala -> controllers
+C:\cygwin\home\KG\p4\target\scala-2.11\routes\main\router\Routes.scala -> controllers_Application_buy1_invoker
+C:\cygwin\home\KG\p4\target\scala-2.11\routes\main\router\Routes.scala -> controllers_Application_buy1_route
+C:\cygwin\home\KG\p4\target\scala-2.11\routes\main\router\Routes.scala -> controllers_Application_getValues3_invoker
+C:\cygwin\home\KG\p4\target\scala-2.11\routes\main\router\Routes.scala -> controllers_Application_getValues3_route
+C:\cygwin\home\KG\p4\target\scala-2.11\routes\main\router\Routes.scala -> controllers_Application_index0_invoker
+C:\cygwin\home\KG\p4\target\scala-2.11\routes\main\router\Routes.scala -> controllers_Application_index0_route
+C:\cygwin\home\KG\p4\target\scala-2.11\routes\main\router\Routes.scala -> controllers_Application_message8_invoker
+C:\cygwin\home\KG\p4\target\scala-2.11\routes\main\router\Routes.scala -> controllers_Application_message8_route
+C:\cygwin\home\KG\p4\target\scala-2.11\routes\main\router\Routes.scala -> controllers_Application_priceList9_invoker
+C:\cygwin\home\KG\p4\target\scala-2.11\routes\main\router\Routes.scala -> controllers_Application_priceList9_route
+C:\cygwin\home\KG\p4\target\scala-2.11\routes\main\router\Routes.scala -> controllers_Application_selfInventory7_invoker
+C:\cygwin\home\KG\p4\target\scala-2.11\routes\main\router\Routes.scala -> controllers_Application_selfInventory7_route
+C:\cygwin\home\KG\p4\target\scala-2.11\routes\main\router\Routes.scala -> controllers_Application_selfMoney6_invoker
+C:\cygwin\home\KG\p4\target\scala-2.11\routes\main\router\Routes.scala -> controllers_Application_selfMoney6_route
+C:\cygwin\home\KG\p4\target\scala-2.11\routes\main\router\Routes.scala -> controllers_Application_sell2_invoker
+C:\cygwin\home\KG\p4\target\scala-2.11\routes\main\router\Routes.scala -> controllers_Application_sell2_route
+C:\cygwin\home\KG\p4\target\scala-2.11\routes\main\router\Routes.scala -> controllers_Application_storeInventory5_invoker
+C:\cygwin\home\KG\p4\target\scala-2.11\routes\main\router\Routes.scala -> controllers_Application_storeInventory5_route
+C:\cygwin\home\KG\p4\target\scala-2.11\routes\main\router\Routes.scala -> controllers_Application_storeMoney4_invoker
+C:\cygwin\home\KG\p4\target\scala-2.11\routes\main\router\Routes.scala -> controllers_Application_storeMoney4_route
+C:\cygwin\home\KG\p4\target\scala-2.11\routes\main\router\Routes.scala -> controllers_Assets_at10_invoker
+C:\cygwin\home\KG\p4\target\scala-2.11\routes\main\router\Routes.scala -> controllers_Assets_at10_route
+C:\cygwin\home\KG\p4\target\scala-2.11\routes\main\router\Routes.scala -> core
+C:\cygwin\home\KG\p4\target\scala-2.11\routes\main\router\Routes.scala -> createInvoker
+C:\cygwin\home\KG\p4\target\scala-2.11\routes\main\router\Routes.scala -> defaultPrefix
+C:\cygwin\home\KG\p4\target\scala-2.11\routes\main\router\Routes.scala -> e
+C:\cygwin\home\KG\p4\target\scala-2.11\routes\main\router\Routes.scala -> empty
+C:\cygwin\home\KG\p4\target\scala-2.11\routes\main\router\Routes.scala -> endsWith
+C:\cygwin\home\KG\p4\target\scala-2.11\routes\main\router\Routes.scala -> errorHandler
+C:\cygwin\home\KG\p4\target\scala-2.11\routes\main\router\Routes.scala -> fakeValue
+C:\cygwin\home\KG\p4\target\scala-2.11\routes\main\router\Routes.scala -> file
+C:\cygwin\home\KG\p4\target\scala-2.11\routes\main\router\Routes.scala -> foldLeft
+C:\cygwin\home\KG\p4\target\scala-2.11\routes\main\router\Routes.scala -> fromPath
+C:\cygwin\home\KG\p4\target\scala-2.11\routes\main\router\Routes.scala -> get
+C:\cygwin\home\KG\p4\target\scala-2.11\routes\main\router\Routes.scala -> getClass
+C:\cygwin\home\KG\p4\target\scala-2.11\routes\main\router\Routes.scala -> getClassLoader
+C:\cygwin\home\KG\p4\target\scala-2.11\routes\main\router\Routes.scala -> getValues
+C:\cygwin\home\KG\p4\target\scala-2.11\routes\main\router\Routes.scala -> http
+C:\cygwin\home\KG\p4\target\scala-2.11\routes\main\router\Routes.scala -> immutable
+C:\cygwin\home\KG\p4\target\scala-2.11\routes\main\router\Routes.scala -> index
+C:\cygwin\home\KG\p4\target\scala-2.11\routes\main\router\Routes.scala -> isEmpty
+C:\cygwin\home\KG\p4\target\scala-2.11\routes\main\router\Routes.scala -> isInstanceOf
+C:\cygwin\home\KG\p4\target\scala-2.11\routes\main\router\Routes.scala -> j
+C:\cygwin\home\KG\p4\target\scala-2.11\routes\main\router\Routes.scala -> libs
+C:\cygwin\home\KG\p4\target\scala-2.11\routes\main\router\Routes.scala -> message
+C:\cygwin\home\KG\p4\target\scala-2.11\routes\main\router\Routes.scala -> mvc
+C:\cygwin\home\KG\p4\target\scala-2.11\routes\main\router\Routes.scala -> package
+C:\cygwin\home\KG\p4\target\scala-2.11\routes\main\router\Routes.scala -> params
+C:\cygwin\home\KG\p4\target\scala-2.11\routes\main\router\Routes.scala -> passThrough
+C:\cygwin\home\KG\p4\target\scala-2.11\routes\main\router\Routes.scala -> path
+C:\cygwin\home\KG\p4\target\scala-2.11\routes\main\router\Routes.scala -> play
+C:\cygwin\home\KG\p4\target\scala-2.11\routes\main\router\Routes.scala -> prefix
+C:\cygwin\home\KG\p4\target\scala-2.11\routes\main\router\Routes.scala -> priceList
+C:\cygwin\home\KG\p4\target\scala-2.11\routes\main\router\Routes.scala -> router
+C:\cygwin\home\KG\p4\target\scala-2.11\routes\main\router\Routes.scala -> routing
+C:\cygwin\home\KG\p4\target\scala-2.11\routes\main\router\Routes.scala -> s
+C:\cygwin\home\KG\p4\target\scala-2.11\routes\main\router\Routes.scala -> scala
+C:\cygwin\home\KG\p4\target\scala-2.11\routes\main\router\Routes.scala -> selfInventory
+C:\cygwin\home\KG\p4\target\scala-2.11\routes\main\router\Routes.scala -> selfMoney
+C:\cygwin\home\KG\p4\target\scala-2.11\routes\main\router\Routes.scala -> sell
+C:\cygwin\home\KG\p4\target\scala-2.11\routes\main\router\Routes.scala -> setPrefix
+C:\cygwin\home\KG\p4\target\scala-2.11\routes\main\router\Routes.scala -> storeInventory
+C:\cygwin\home\KG\p4\target\scala-2.11\routes\main\router\Routes.scala -> storeMoney
+C:\cygwin\home\KG\p4\target\scala-2.11\routes\main\router\Routes.scala -> unapply
+C:\cygwin\home\KG\p4\target\scala-2.11\routes\main\router\Routes.scala -> unary_!
+C:\cygwin\home\KG\p4\target\scala-2.11\routes\main\router\Routes.scala -> unchecked
+C:\cygwin\home\KG\p4\target\scala-2.11\routes\main\router\Routes.scala -> wrapJava
+C:\cygwin\home\KG\p4\target\scala-2.11\routes\main\router\RoutesPrefix.scala -> <init>
+C:\cygwin\home\KG\p4\target\scala-2.11\routes\main\router\RoutesPrefix.scala -> AnyRef
+C:\cygwin\home\KG\p4\target\scala-2.11\routes\main\router\RoutesPrefix.scala -> Function0
+C:\cygwin\home\KG\p4\target\scala-2.11\routes\main\router\RoutesPrefix.scala -> Predef
+C:\cygwin\home\KG\p4\target\scala-2.11\routes\main\router\RoutesPrefix.scala -> RoutesPrefix
+C:\cygwin\home\KG\p4\target\scala-2.11\routes\main\router\RoutesPrefix.scala -> String
+C:\cygwin\home\KG\p4\target\scala-2.11\routes\main\router\RoutesPrefix.scala -> Unit
+C:\cygwin\home\KG\p4\target\scala-2.11\routes\main\router\RoutesPrefix.scala -> _prefix
+C:\cygwin\home\KG\p4\target\scala-2.11\routes\main\router\RoutesPrefix.scala -> _prefix_=
+C:\cygwin\home\KG\p4\target\scala-2.11\routes\main\router\RoutesPrefix.scala -> byNamePrefix
+C:\cygwin\home\KG\p4\target\scala-2.11\routes\main\router\RoutesPrefix.scala -> p
+C:\cygwin\home\KG\p4\target\scala-2.11\routes\main\router\RoutesPrefix.scala -> prefix
+C:\cygwin\home\KG\p4\target\scala-2.11\routes\main\router\RoutesPrefix.scala -> router
+C:\cygwin\home\KG\p4\target\scala-2.11\routes\main\router\RoutesPrefix.scala -> scala
+C:\cygwin\home\KG\p4\target\scala-2.11\twirl\main\views\html\index.template.scala -> <init>
+C:\cygwin\home\KG\p4\target\scala-2.11\twirl\main\views\html\index.template.scala -> Any
+C:\cygwin\home\KG\p4\target\scala-2.11\twirl\main\views\html\index.template.scala -> AnyRef
+C:\cygwin\home\KG\p4\target\scala-2.11\twirl\main\views\html\index.template.scala -> Appendable
+C:\cygwin\home\KG\p4\target\scala-2.11\twirl\main\views\html\index.template.scala -> Application
+C:\cygwin\home\KG\p4\target\scala-2.11\twirl\main\views\html\index.template.scala -> Assets
+C:\cygwin\home\KG\p4\target\scala-2.11\twirl\main\views\html\index.template.scala -> BaseScalaTemplate
+C:\cygwin\home\KG\p4\target\scala-2.11\twirl\main\views\html\index.template.scala -> Context
+C:\cygwin\home\KG\p4\target\scala-2.11\twirl\main\views\html\index.template.scala -> Field
+C:\cygwin\home\KG\p4\target\scala-2.11\twirl\main\views\html\index.template.scala -> Format
+C:\cygwin\home\KG\p4\target\scala-2.11\twirl\main\views\html\index.template.scala -> Function0
+C:\cygwin\home\KG\p4\target\scala-2.11\twirl\main\views\html\index.template.scala -> HtmlFormat
+C:\cygwin\home\KG\p4\target\scala-2.11\twirl\main\views\html\index.template.scala -> Http
+C:\cygwin\home\KG\p4\target\scala-2.11\twirl\main\views\html\index.template.scala -> Implicit
+C:\cygwin\home\KG\p4\target\scala-2.11\twirl\main\views\html\index.template.scala -> JavaConversions
+C:\cygwin\home\KG\p4\target\scala-2.11\twirl\main\views\html\index.template.scala -> JavaConverters
+C:\cygwin\home\KG\p4\target\scala-2.11\twirl\main\views\html\index.template.scala -> ManifestFactory
+C:\cygwin\home\KG\p4\target\scala-2.11\twirl\main\views\html\index.template.scala -> PlayMagic
+C:\cygwin\home\KG\p4\target\scala-2.11\twirl\main\views\html\index.template.scala -> PlayMagicForJava
+C:\cygwin\home\KG\p4\target\scala-2.11\twirl\main\views\html\index.template.scala -> Seq
+C:\cygwin\home\KG\p4\target\scala-2.11\twirl\main\views\html\index.template.scala -> Template0
+C:\cygwin\home\KG\p4\target\scala-2.11\twirl\main\views\html\index.template.scala -> TemplateMagic
+C:\cygwin\home\KG\p4\target\scala-2.11\twirl\main\views\html\index.template.scala -> _display_
+C:\cygwin\home\KG\p4\target\scala-2.11\twirl\main\views\html\index.template.scala -> _root_
+C:\cygwin\home\KG\p4\target\scala-2.11\twirl\main\views\html\index.template.scala -> api
+C:\cygwin\home\KG\p4\target\scala-2.11\twirl\main\views\html\index.template.scala -> apply
+C:\cygwin\home\KG\p4\target\scala-2.11\twirl\main\views\html\index.template.scala -> at
+C:\cygwin\home\KG\p4\target\scala-2.11\twirl\main\views\html\index.template.scala -> buy
+C:\cygwin\home\KG\p4\target\scala-2.11\twirl\main\views\html\index.template.scala -> classType
+C:\cygwin\home\KG\p4\target\scala-2.11\twirl\main\views\html\index.template.scala -> collection
+C:\cygwin\home\KG\p4\target\scala-2.11\twirl\main\views\html\index.template.scala -> controllers
+C:\cygwin\home\KG\p4\target\scala-2.11\twirl\main\views\html\index.template.scala -> core
+C:\cygwin\home\KG\p4\target\scala-2.11\twirl\main\views\html\index.template.scala -> data
+C:\cygwin\home\KG\p4\target\scala-2.11\twirl\main\views\html\index.template.scala -> format
+C:\cygwin\home\KG\p4\target\scala-2.11\twirl\main\views\html\index.template.scala -> html
+C:\cygwin\home\KG\p4\target\scala-2.11\twirl\main\views\html\index.template.scala -> i18n
+C:\cygwin\home\KG\p4\target\scala-2.11\twirl\main\views\html\index.template.scala -> index
+C:\cygwin\home\KG\p4\target\scala-2.11\twirl\main\views\html\index.template.scala -> index_Scope0
+C:\cygwin\home\KG\p4\target\scala-2.11\twirl\main\views\html\index.template.scala -> j
+C:\cygwin\home\KG\p4\target\scala-2.11\twirl\main\views\html\index.template.scala -> java
+C:\cygwin\home\KG\p4\target\scala-2.11\twirl\main\views\html\index.template.scala -> lang
+C:\cygwin\home\KG\p4\target\scala-2.11\twirl\main\views\html\index.template.scala -> main
+C:\cygwin\home\KG\p4\target\scala-2.11\twirl\main\views\html\index.template.scala -> models
+C:\cygwin\home\KG\p4\target\scala-2.11\twirl\main\views\html\index.template.scala -> mvc
+C:\cygwin\home\KG\p4\target\scala-2.11\twirl\main\views\html\index.template.scala -> play
+C:\cygwin\home\KG\p4\target\scala-2.11\twirl\main\views\html\index.template.scala -> raw
+C:\cygwin\home\KG\p4\target\scala-2.11\twirl\main\views\html\index.template.scala -> reflect
+C:\cygwin\home\KG\p4\target\scala-2.11\twirl\main\views\html\index.template.scala -> routes
+C:\cygwin\home\KG\p4\target\scala-2.11\twirl\main\views\html\index.template.scala -> scala
+C:\cygwin\home\KG\p4\target\scala-2.11\twirl\main\views\html\index.template.scala -> sell
+C:\cygwin\home\KG\p4\target\scala-2.11\twirl\main\views\html\index.template.scala -> templates
+C:\cygwin\home\KG\p4\target\scala-2.11\twirl\main\views\html\index.template.scala -> twirl
+C:\cygwin\home\KG\p4\target\scala-2.11\twirl\main\views\html\index.template.scala -> util
+C:\cygwin\home\KG\p4\target\scala-2.11\twirl\main\views\html\index.template.scala -> views
+C:\cygwin\home\KG\p4\target\scala-2.11\twirl\main\views\html\main.template.scala -> <init>
+C:\cygwin\home\KG\p4\target\scala-2.11\twirl\main\views\html\main.template.scala -> Any
+C:\cygwin\home\KG\p4\target\scala-2.11\twirl\main\views\html\main.template.scala -> AnyRef
+C:\cygwin\home\KG\p4\target\scala-2.11\twirl\main\views\html\main.template.scala -> Appendable
+C:\cygwin\home\KG\p4\target\scala-2.11\twirl\main\views\html\main.template.scala -> Assets
+C:\cygwin\home\KG\p4\target\scala-2.11\twirl\main\views\html\main.template.scala -> BaseScalaTemplate
+C:\cygwin\home\KG\p4\target\scala-2.11\twirl\main\views\html\main.template.scala -> Context
+C:\cygwin\home\KG\p4\target\scala-2.11\twirl\main\views\html\main.template.scala -> Field
+C:\cygwin\home\KG\p4\target\scala-2.11\twirl\main\views\html\main.template.scala -> Format
+C:\cygwin\home\KG\p4\target\scala-2.11\twirl\main\views\html\main.template.scala -> Function1
+C:\cygwin\home\KG\p4\target\scala-2.11\twirl\main\views\html\main.template.scala -> Html
+C:\cygwin\home\KG\p4\target\scala-2.11\twirl\main\views\html\main.template.scala -> HtmlFormat
+C:\cygwin\home\KG\p4\target\scala-2.11\twirl\main\views\html\main.template.scala -> Http
+C:\cygwin\home\KG\p4\target\scala-2.11\twirl\main\views\html\main.template.scala -> Implicit
+C:\cygwin\home\KG\p4\target\scala-2.11\twirl\main\views\html\main.template.scala -> JavaConversions
+C:\cygwin\home\KG\p4\target\scala-2.11\twirl\main\views\html\main.template.scala -> JavaConverters
+C:\cygwin\home\KG\p4\target\scala-2.11\twirl\main\views\html\main.template.scala -> ManifestFactory
+C:\cygwin\home\KG\p4\target\scala-2.11\twirl\main\views\html\main.template.scala -> PlayMagic
+C:\cygwin\home\KG\p4\target\scala-2.11\twirl\main\views\html\main.template.scala -> PlayMagicForJava
+C:\cygwin\home\KG\p4\target\scala-2.11\twirl\main\views\html\main.template.scala -> Seq
+C:\cygwin\home\KG\p4\target\scala-2.11\twirl\main\views\html\main.template.scala -> String
+C:\cygwin\home\KG\p4\target\scala-2.11\twirl\main\views\html\main.template.scala -> Template2
+C:\cygwin\home\KG\p4\target\scala-2.11\twirl\main\views\html\main.template.scala -> TemplateMagic
+C:\cygwin\home\KG\p4\target\scala-2.11\twirl\main\views\html\main.template.scala -> _display_
+C:\cygwin\home\KG\p4\target\scala-2.11\twirl\main\views\html\main.template.scala -> _root_
+C:\cygwin\home\KG\p4\target\scala-2.11\twirl\main\views\html\main.template.scala -> api
+C:\cygwin\home\KG\p4\target\scala-2.11\twirl\main\views\html\main.template.scala -> apply
+C:\cygwin\home\KG\p4\target\scala-2.11\twirl\main\views\html\main.template.scala -> at
+C:\cygwin\home\KG\p4\target\scala-2.11\twirl\main\views\html\main.template.scala -> classType
+C:\cygwin\home\KG\p4\target\scala-2.11\twirl\main\views\html\main.template.scala -> collection
+C:\cygwin\home\KG\p4\target\scala-2.11\twirl\main\views\html\main.template.scala -> content
+C:\cygwin\home\KG\p4\target\scala-2.11\twirl\main\views\html\main.template.scala -> controllers
+C:\cygwin\home\KG\p4\target\scala-2.11\twirl\main\views\html\main.template.scala -> core
+C:\cygwin\home\KG\p4\target\scala-2.11\twirl\main\views\html\main.template.scala -> data
+C:\cygwin\home\KG\p4\target\scala-2.11\twirl\main\views\html\main.template.scala -> format
+C:\cygwin\home\KG\p4\target\scala-2.11\twirl\main\views\html\main.template.scala -> html
+C:\cygwin\home\KG\p4\target\scala-2.11\twirl\main\views\html\main.template.scala -> i18n
+C:\cygwin\home\KG\p4\target\scala-2.11\twirl\main\views\html\main.template.scala -> j
+C:\cygwin\home\KG\p4\target\scala-2.11\twirl\main\views\html\main.template.scala -> java
+C:\cygwin\home\KG\p4\target\scala-2.11\twirl\main\views\html\main.template.scala -> lang
+C:\cygwin\home\KG\p4\target\scala-2.11\twirl\main\views\html\main.template.scala -> main
+C:\cygwin\home\KG\p4\target\scala-2.11\twirl\main\views\html\main.template.scala -> main_Scope0
+C:\cygwin\home\KG\p4\target\scala-2.11\twirl\main\views\html\main.template.scala -> models
+C:\cygwin\home\KG\p4\target\scala-2.11\twirl\main\views\html\main.template.scala -> mvc
+C:\cygwin\home\KG\p4\target\scala-2.11\twirl\main\views\html\main.template.scala -> play
+C:\cygwin\home\KG\p4\target\scala-2.11\twirl\main\views\html\main.template.scala -> raw
+C:\cygwin\home\KG\p4\target\scala-2.11\twirl\main\views\html\main.template.scala -> reflect
+C:\cygwin\home\KG\p4\target\scala-2.11\twirl\main\views\html\main.template.scala -> routes
+C:\cygwin\home\KG\p4\target\scala-2.11\twirl\main\views\html\main.template.scala -> scala
+C:\cygwin\home\KG\p4\target\scala-2.11\twirl\main\views\html\main.template.scala -> templates
+C:\cygwin\home\KG\p4\target\scala-2.11\twirl\main\views\html\main.template.scala -> title
+C:\cygwin\home\KG\p4\target\scala-2.11\twirl\main\views\html\main.template.scala -> twirl
+C:\cygwin\home\KG\p4\target\scala-2.11\twirl\main\views\html\main.template.scala -> util
+C:\cygwin\home\KG\p4\target\scala-2.11\twirl\main\views\html\main.template.scala -> views
+product stamps:
+61 items
+C:\cygwin\home\KG\p4\target\scala-2.11\classes\controllers\Application.class -> lastModified(1461895940953)
+C:\cygwin\home\KG\p4\target\scala-2.11\classes\controllers\javascript\ReverseApplication.class -> lastModified(1461895253543)
+C:\cygwin\home\KG\p4\target\scala-2.11\classes\controllers\javascript\ReverseAssets.class -> lastModified(1461895253557)
+C:\cygwin\home\KG\p4\target\scala-2.11\classes\controllers\ReverseApplication.class -> lastModified(1461895253613)
+C:\cygwin\home\KG\p4\target\scala-2.11\classes\controllers\ReverseAssets.class -> lastModified(1461895253600)
+C:\cygwin\home\KG\p4\target\scala-2.11\classes\controllers\routes$javascript.class -> lastModified(1461895253572)
+C:\cygwin\home\KG\p4\target\scala-2.11\classes\controllers\routes.class -> lastModified(1461895253588)
+C:\cygwin\home\KG\p4\target\scala-2.11\classes\models\Inventory.class -> lastModified(1462238548311)
+C:\cygwin\home\KG\p4\target\scala-2.11\classes\models\Value.class -> lastModified(1461895252459)
+C:\cygwin\home\KG\p4\target\scala-2.11\classes\router\Routes$$anonfun$documentation$1.class -> lastModified(1461895253096)
+C:\cygwin\home\KG\p4\target\scala-2.11\classes\router\Routes$$anonfun$router$Routes$$controllers_Application_buy1_invoker$1.class -> lastModified(1461895253527)
+C:\cygwin\home\KG\p4\target\scala-2.11\classes\router\Routes$$anonfun$router$Routes$$controllers_Application_getValues3_invoker$1.class -> lastModified(1461895253469)
+C:\cygwin\home\KG\p4\target\scala-2.11\classes\router\Routes$$anonfun$router$Routes$$controllers_Application_index0_invoker$1.class -> lastModified(1461895253284)
+C:\cygwin\home\KG\p4\target\scala-2.11\classes\router\Routes$$anonfun$router$Routes$$controllers_Application_message8_invoker$1.class -> lastModified(1461895253513)
+C:\cygwin\home\KG\p4\target\scala-2.11\classes\router\Routes$$anonfun$router$Routes$$controllers_Application_priceList9_invoker$1.class -> lastModified(1461895253396)
+C:\cygwin\home\KG\p4\target\scala-2.11\classes\router\Routes$$anonfun$router$Routes$$controllers_Application_selfInventory7_invoker$1.class -> lastModified(1461895252928)
+C:\cygwin\home\KG\p4\target\scala-2.11\classes\router\Routes$$anonfun$router$Routes$$controllers_Application_selfMoney6_invoker$1.class -> lastModified(1461895253238)
+C:\cygwin\home\KG\p4\target\scala-2.11\classes\router\Routes$$anonfun$router$Routes$$controllers_Application_sell2_invoker$1.class -> lastModified(1461895253441)
+C:\cygwin\home\KG\p4\target\scala-2.11\classes\router\Routes$$anonfun$router$Routes$$controllers_Application_storeInventory5_invoker$1.class -> lastModified(1461895253352)
+C:\cygwin\home\KG\p4\target\scala-2.11\classes\router\Routes$$anonfun$router$Routes$$controllers_Application_storeMoney4_invoker$1.class -> lastModified(1461895253312)
+C:\cygwin\home\KG\p4\target\scala-2.11\classes\router\Routes$$anonfun$router$Routes$$controllers_Assets_at10_invoker$1.class -> lastModified(1461895253006)
+C:\cygwin\home\KG\p4\target\scala-2.11\classes\router\Routes$$anonfun$routes$1$$anonfun$applyOrElse$1$$anonfun$apply$1.class -> lastModified(1461895253366)
+C:\cygwin\home\KG\p4\target\scala-2.11\classes\router\Routes$$anonfun$routes$1$$anonfun$applyOrElse$1.class -> lastModified(1461895253410)
+C:\cygwin\home\KG\p4\target\scala-2.11\classes\router\Routes$$anonfun$routes$1$$anonfun$applyOrElse$10$$anonfun$apply$10.class -> lastModified(1461895253485)
+C:\cygwin\home\KG\p4\target\scala-2.11\classes\router\Routes$$anonfun$routes$1$$anonfun$applyOrElse$10.class -> lastModified(1461895253498)
+C:\cygwin\home\KG\p4\target\scala-2.11\classes\router\Routes$$anonfun$routes$1$$anonfun$applyOrElse$11$$anonfun$apply$11.class -> lastModified(1461895252950)
+C:\cygwin\home\KG\p4\target\scala-2.11\classes\router\Routes$$anonfun$routes$1$$anonfun$applyOrElse$11.class -> lastModified(1461895253058)
+C:\cygwin\home\KG\p4\target\scala-2.11\classes\router\Routes$$anonfun$routes$1$$anonfun$applyOrElse$2$$anonfun$apply$2.class -> lastModified(1461895253146)
+C:\cygwin\home\KG\p4\target\scala-2.11\classes\router\Routes$$anonfun$routes$1$$anonfun$applyOrElse$2.class -> lastModified(1461895253026)
+C:\cygwin\home\KG\p4\target\scala-2.11\classes\router\Routes$$anonfun$routes$1$$anonfun$applyOrElse$3$$anonfun$apply$3.class -> lastModified(1461895253078)
+C:\cygwin\home\KG\p4\target\scala-2.11\classes\router\Routes$$anonfun$routes$1$$anonfun$applyOrElse$3.class -> lastModified(1461895253298)
+C:\cygwin\home\KG\p4\target\scala-2.11\classes\router\Routes$$anonfun$routes$1$$anonfun$applyOrElse$4$$anonfun$apply$4.class -> lastModified(1461895253381)
+C:\cygwin\home\KG\p4\target\scala-2.11\classes\router\Routes$$anonfun$routes$1$$anonfun$applyOrElse$4.class -> lastModified(1461895253454)
+C:\cygwin\home\KG\p4\target\scala-2.11\classes\router\Routes$$anonfun$routes$1$$anonfun$applyOrElse$5$$anonfun$apply$5.class -> lastModified(1461895253216)
+C:\cygwin\home\KG\p4\target\scala-2.11\classes\router\Routes$$anonfun$routes$1$$anonfun$applyOrElse$5.class -> lastModified(1461895253426)
+C:\cygwin\home\KG\p4\target\scala-2.11\classes\router\Routes$$anonfun$routes$1$$anonfun$applyOrElse$6$$anonfun$apply$6.class -> lastModified(1461895252967)
+C:\cygwin\home\KG\p4\target\scala-2.11\classes\router\Routes$$anonfun$routes$1$$anonfun$applyOrElse$6.class -> lastModified(1461895252893)
+C:\cygwin\home\KG\p4\target\scala-2.11\classes\router\Routes$$anonfun$routes$1$$anonfun$applyOrElse$7$$anonfun$apply$7.class -> lastModified(1461895253195)
+C:\cygwin\home\KG\p4\target\scala-2.11\classes\router\Routes$$anonfun$routes$1$$anonfun$applyOrElse$7.class -> lastModified(1461895253111)
+C:\cygwin\home\KG\p4\target\scala-2.11\classes\router\Routes$$anonfun$routes$1$$anonfun$applyOrElse$8$$anonfun$apply$8.class -> lastModified(1461895252987)
+C:\cygwin\home\KG\p4\target\scala-2.11\classes\router\Routes$$anonfun$routes$1$$anonfun$applyOrElse$8.class -> lastModified(1461895253253)
+C:\cygwin\home\KG\p4\target\scala-2.11\classes\router\Routes$$anonfun$routes$1$$anonfun$applyOrElse$9$$anonfun$apply$9.class -> lastModified(1461895253129)
+C:\cygwin\home\KG\p4\target\scala-2.11\classes\router\Routes$$anonfun$routes$1$$anonfun$applyOrElse$9.class -> lastModified(1461895253180)
+C:\cygwin\home\KG\p4\target\scala-2.11\classes\router\Routes$$anonfun$routes$1.class -> lastModified(1461895253163)
+C:\cygwin\home\KG\p4\target\scala-2.11\classes\router\Routes.class -> lastModified(1461895253334)
+C:\cygwin\home\KG\p4\target\scala-2.11\classes\router\RoutesPrefix$$anonfun$1.class -> lastModified(1461895252856)
+C:\cygwin\home\KG\p4\target\scala-2.11\classes\router\RoutesPrefix$.class -> lastModified(1461895252837)
+C:\cygwin\home\KG\p4\target\scala-2.11\classes\router\RoutesPrefix.class -> lastModified(1461895252875)
+C:\cygwin\home\KG\p4\target\scala-2.11\classes\views\html\index$.class -> lastModified(1461895252524)
+C:\cygwin\home\KG\p4\target\scala-2.11\classes\views\html\index.class -> lastModified(1461895252485)
+C:\cygwin\home\KG\p4\target\scala-2.11\classes\views\html\index_Scope0$.class -> lastModified(1461895252504)
+C:\cygwin\home\KG\p4\target\scala-2.11\classes\views\html\index_Scope0$index$$anonfun$f$1.class -> lastModified(1461895252626)
+C:\cygwin\home\KG\p4\target\scala-2.11\classes\views\html\index_Scope0$index.class -> lastModified(1461895252682)
+C:\cygwin\home\KG\p4\target\scala-2.11\classes\views\html\index_Scope0.class -> lastModified(1461895252648)
+C:\cygwin\home\KG\p4\target\scala-2.11\classes\views\html\main$.class -> lastModified(1461895252796)
+C:\cygwin\home\KG\p4\target\scala-2.11\classes\views\html\main.class -> lastModified(1461895252744)
+C:\cygwin\home\KG\p4\target\scala-2.11\classes\views\html\main_Scope0$.class -> lastModified(1461895252761)
+C:\cygwin\home\KG\p4\target\scala-2.11\classes\views\html\main_Scope0$main$$anonfun$f$1$$anonfun$apply$1.class -> lastModified(1461895252707)
+C:\cygwin\home\KG\p4\target\scala-2.11\classes\views\html\main_Scope0$main$$anonfun$f$1.class -> lastModified(1461895252778)
+C:\cygwin\home\KG\p4\target\scala-2.11\classes\views\html\main_Scope0$main.class -> lastModified(1461895252820)
+C:\cygwin\home\KG\p4\target\scala-2.11\classes\views\html\main_Scope0.class -> lastModified(1461895252725)
+source stamps:
+11 items
+C:\cygwin\home\KG\p4\app\controllers\Application.java -> hash(5c3a8ca8353943a1f40509962bdd14add7731c0f)
+C:\cygwin\home\KG\p4\app\Global.java -> hash(9375314acc110f5c553d55ef33dd3e267c4163b6)
+C:\cygwin\home\KG\p4\app\models\Inventory.java -> hash(1916d86c46195cce52f7ae271e9058e5b0713a16)
+C:\cygwin\home\KG\p4\app\models\Value.java -> hash(7c0de47cef57f07fa45a73c89481493fd68c119a)
+C:\cygwin\home\KG\p4\target\scala-2.11\routes\main\controllers\javascript\JavaScriptReverseRoutes.scala -> hash(8817df6c378dac3935d1b6a83368695e4b9af0f2)
+C:\cygwin\home\KG\p4\target\scala-2.11\routes\main\controllers\ReverseRoutes.scala -> hash(6c8c901007eb488001474b2f7b2dabf17761d86d)
+C:\cygwin\home\KG\p4\target\scala-2.11\routes\main\controllers\routes.java -> hash(8ba5ad9336cff296d060a058131744cb49f4bd8d)
+C:\cygwin\home\KG\p4\target\scala-2.11\routes\main\router\Routes.scala -> hash(cd06292b666ec2cb6f1c423984d2640bbd43c4b8)
+C:\cygwin\home\KG\p4\target\scala-2.11\routes\main\router\RoutesPrefix.scala -> hash(c18d7783bddf0955ad9af9a87f39980c6433c760)
+C:\cygwin\home\KG\p4\target\scala-2.11\twirl\main\views\html\index.template.scala -> hash(a07e0fe6020a98544e68144e0ea4fc4253117ff5)
+C:\cygwin\home\KG\p4\target\scala-2.11\twirl\main\views\html\main.template.scala -> hash(096373621733dcfee1c401f1c127ce9a0b13eee2)
+binary stamps:
+8 items
+C:\Program Files\Java\jdk1.8.0_25\jre\lib\rt.jar -> lastModified(1417910120138)
+C:\Users\KG\.ivy2\cache\com.typesafe.play\play-java-jpa_2.11\jars\play-java-jpa_2.11-2.5.2.jar -> lastModified(1460676174000)
+C:\Users\KG\.ivy2\cache\com.typesafe.play\play-java_2.11\jars\play-java_2.11-2.5.2.jar -> lastModified(1460676122000)
+C:\Users\KG\.ivy2\cache\com.typesafe.play\play-json_2.11\jars\play-json_2.11-2.5.2.jar -> lastModified(1460676071000)
+C:\Users\KG\.ivy2\cache\com.typesafe.play\play_2.11\jars\play_2.11-2.5.2.jar -> lastModified(1460676156000)
+C:\Users\KG\.ivy2\cache\com.typesafe.play\twirl-api_2.11\jars\twirl-api_2.11-1.1.1.jar -> lastModified(1431579649000)
+C:\Users\KG\.ivy2\cache\org.hibernate.javax.persistence\hibernate-jpa-2.1-api\jars\hibernate-jpa-2.1-api-1.0.0.Final.jar -> lastModified(1374858104000)
+C:\Users\KG\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.7.jar -> lastModified(1435004218000)
+class names:
+8 items
+C:\Program Files\Java\jdk1.8.0_25\jre\lib\rt.jar -> java.lang.Object
+C:\Users\KG\.ivy2\cache\com.typesafe.play\play-java-jpa_2.11\jars\play-java-jpa_2.11-2.5.2.jar -> play.db.jpa.JPA
+C:\Users\KG\.ivy2\cache\com.typesafe.play\play-java_2.11\jars\play-java_2.11-2.5.2.jar -> play.data.FormFactory
+C:\Users\KG\.ivy2\cache\com.typesafe.play\play-json_2.11\jars\play-json_2.11-2.5.2.jar -> play.libs.Json
+C:\Users\KG\.ivy2\cache\com.typesafe.play\play_2.11\jars\play_2.11-2.5.2.jar -> play.mvc.Results$StringChunks
+C:\Users\KG\.ivy2\cache\com.typesafe.play\twirl-api_2.11\jars\twirl-api_2.11-1.1.1.jar -> play.twirl.api.Template2
+C:\Users\KG\.ivy2\cache\org.hibernate.javax.persistence\hibernate-jpa-2.1-api\jars\hibernate-jpa-2.1-api-1.0.0.Final.jar -> javax.persistence.Query
+C:\Users\KG\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.7.jar -> scala.collection.JavaConverters$
+internal apis:
+11 items
+C:\cygwin\home\KG\p4\app\controllers\Application.java -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHAK6Kk3AHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAt3NyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cJ0pTm50AAplbnVtZXJhdG9yc3EAfgAMGI37VnQABm5vdGlmeXNxAH4ADBdRaFJ0AARGUk9Nc3EAfgAMuW0EonQAEG1vdmVkUGVybWFuZW50bHlzcQB+AAzwuf8BdAAQQ09OVEVOVF9MQU5HVUFHRXNxAH4ADAnTbd50AAdDUkVBVEVEc3EAfgAM4MX5AHQACWludmVudG9yeXNxAH4ADK8i9oR0ABF0ZW1wb3JhcnlSZWRpcmVjdHNxAH4ADEIJIpx0ACpSZXN1bHRzJFN0cmluZ0NodW5rcyRXaGVuUmVhZHlTdHJpbmdDaHVua3NzcQB+AAyPftEsdAAHV0FSTklOR3NxAH4ADM+2nwl0AAhDT05USU5VRXNxAH4ADE9uAdN0AAtTRVRfQ09PS0lFMnNxAH4ADIUN4S10ABFwZXJtYW5lbnRSZWRpcmVjdHNxAH4ADNa2KcF0ABNDT05URU5UX0RJU1BPU0lUSU9Oc3EAfgAMkSvjf3QADGxhbWJkYSRuZXckNHNxAH4ADBL5gcJ0AAdjaGFubmVsc3EAfgAMhtauwHQADENPTlRFTlRfVFlQRXNxAH4ADOzPI0N0AApiYWRSZXF1ZXN0c3EAfgAMbVADyXQABHdhaXRzcQB+AAw5I75JdAAcQUNDRVNTX0NPTlRST0xfQUxMT1dfTUVUSE9EU3NxAH4ADDFlgXZ0AApVU0VSX0FHRU5Uc3EAfgAMVug2tHQAA2N0eHNxAH4ADJazoVN0AARIT1NUc3EAfgAMWOGV63QAC0NPTlRFTlRfTUQ1c3EAfgAMWiPVcnQAB3JlcXVlc3RzcQB+AAyt8mhSdAAQWF9GT1JXQVJERURfUE9SVHNxAH4ADO0NYsR0AA9wYXltZW50UmVxdWlyZWRzcQB+AAzETZzLdAALQkFEX1JFUVVFU1RzcQB+AAyJpmVTdAAGbG9nZ2Vyc3EAfgAMmwv81XQADE1BWF9GT1JXQVJEU3NxAH4ADK3hErp0ABBYX0ZPUldBUkRFRF9IT1NUc3EAfgAMSSH/inQACHJlZGlyZWN0c3EAfgAMoLu/0HQAB1RSQUlMRVJzcQB+AAyz4xcVdAASUFJPWFlfQVVUSEVOVElDQVRFc3EAfgAMYYQn03QADUFVVEhPUklaQVRJT05zcQB+AAzMYmiZdAANQ0FDSEVfQ09OVFJPTHNxAH4ADCA2Shp0AA9OT1RfSU1QTEVNRU5URURzcQB+AAzYYz/FdAANc2VsZkludmVudG9yeXNxAH4ADKF+iCl0AAZlcXVhbHNzcQB+AAyFjaKadAAQUEFZTUVOVF9SRVFVSVJFRHNxAH4ADAFY62t0AAtSRVRSWV9BRlRFUnNxAH4ADPQkfit0ABNQUkVDT05ESVRJT05fRkFJTEVEc3EAfgAM0UEg73QACENPTkZMSUNUc3EAfgAMpEMseXQADkFDQ0VQVF9DSEFSU0VUc3EAfgAMGWQA5XQAJlJlc3VsdHMkQnl0ZUNodW5rcyRXaGVuUmVhZHlCeXRlQ2h1bmtzc3EAfgAMw9b6JXQAB29uUmVhZHlzcQB+AAxDY4mMdAADVklBc3EAfgAMQadWlnQAD1JFUVVFU1RfVElNRU9VVHNxAH4ADHENWbN0ABBNVUxUSVBMRV9DSE9JQ0VTc3EAfgAMURtEFHQACXByaWNlTGlzdHNxAH4ADMel3150AAhub3RGb3VuZHNxAH4ADF2QfJh0ABFNT1ZFRF9QRVJNQU5FTlRMWXNxAH4ADEQ/bSB0AAJURXNxAH4ADJmq/1p0ABBDT05URU5UX0xPQ0FUSU9Oc3EAfgAMwMJMCXQAD1BBUlRJQUxfQ09OVEVOVHNxAH4ADNpbHKp0AAxsYW1iZGEkbmV3JDVzcQB+AAzwQ5P8dAAUSU5TVUZGSUNJRU5UX1NUT1JBR0VzcQB+AAywSZeRdAAXbGFtYmRhJG9uRGlzY29ubmVjdGVkJDZzcQB+AAzdCcMTdAAERVRBR3NxAH4ADOlVdAp0AApzdG9yZU1vbmV5c3EAfgAMwgh/pnQAD0xFTkdUSF9SRVFVSVJFRHNxAH4ADN0mpNx0AAVpdGVtc3NxAH4ADMnABkF0AAxVTkFVVEhPUklaRURzcQB+AAxcQmt8dAAWVU5TVVBQT1JURURfTUVESUFfVFlQRXNxAH4ADPiXx1l0AAdSRUZFUkVSc3EAfgAMe8B4fnQAGFJFUVVFU1RfRU5USVRZX1RPT19MQVJHRXNxAH4ADCIvJKx0AAZPUklHSU5zcQB+AAyZ0Lx/dAAOc3RvcmVJbnZlbnRvcnlzcQB+AAwNBdGDdAAPQUNDRVBUX0xBTkdVQUdFc3EAfgAMiUhmJXQADE5PVF9NT0RJRklFRHNxAH4ADEb5C5B0ABRSZXN1bHRzJFN0cmluZ0NodW5rc3NxAH4ADE9qkkF0ABpIVFRQX1ZFUlNJT05fTk9UX1NVUFBPUlRFRHNxAH4ADDjuRfF0ABtBQ0NFU1NfQ09OVFJPTF9BTExPV19PUklHSU5zcQB+AAzmYzm7dAAISUZfUkFOR0VzcQB+AAxkq7cCdAATSUZfVU5NT0RJRklFRF9TSU5DRXNxAH4ADEdtO2p0ABNTV0lUQ0hJTkdfUFJPVE9DT0xTc3EAfgAM3xZdk3QACGNhbGxiYWNrc3EAfgAM+rGEvXQAElRFTVBPUkFSWV9SRURJUkVDVHNxAH4ADMUZvtR0AA5DT05URU5UX0xFTkdUSHNxAH4ADDgwunN0AApTRVRfQ09PS0lFc3EAfgAMPrwK+3QACW5vdGlmeUFsbHNxAH4ADMX0CPZ0AANBR0VzcQB+AAx9AIzndAALQkFEX0dBVEVXQVlzcQB+AAxZZXKEdAASRVhQRUNUQVRJT05fRkFJTEVEc3EAfgAMA0td9HQACkNPTk5FQ1RJT05zcQB+AAwudt1ndAADYnV5c3EAfgAMsZH8VnQACUZPUldBUkRFRHNxAH4ADKA45yV0ABJSZXN1bHRzJEJ5dGVDaHVua3NzcQB+AAwPw9qPdAASUmVzdWx0cyRDaHVua3MkT3V0c3EAfgAMyVebxHQAAk9Lc3EAfgAMfmsIkXQAHEFDQ0VTU19DT05UUk9MX0FMTE9XX0hFQURFUlNzcQB+AAwyje7odAAFZm91bmRzcQB+AAxxjnowdAAMdW5hdXRob3JpemVkc3EAfgAMHh/VmHQACHJlc3BvbnNlc3EAfgAM+9L1T3QABUZPVU5Ec3EAfgAM7SNECHQABjxpbml0PnNxAH4ADJ1chXx0AAREQVRFc3EAfgAMIs6/VnQADUNPTlRFTlRfUkFOR0VzcQB+AAxqcbWLdAARVFJBTlNGRVJfRU5DT0RJTkdzcQB+AAyslpWddAAJc2VsZk1vbmV5c3EAfgAM/WsDIXQAElBFUk1BTkVOVF9SRURJUkVDVHNxAH4ADMtufrZ0AAlnZXRWYWx1ZXNzcQB+AAwbVl/IdAARVE9PX01BTllfUkVRVUVTVFNzcQB+AAwwDX4FdAATUFJPWFlfQVVUSE9SSVpBVElPTnNxAH4ADAf9Ewh0AARHT05Fc3EAfgAMDhcCOXQAIEFDQ0VTU19DT05UUk9MX0FMTE9XX0NSRURFTlRJQUxTc3EAfgAMq1h4knQACWNsZWFyTGFuZ3NxAH4ADJL9Vyl0AA5OT1RfQUNDRVBUQUJMRXNxAH4ADOa1F+10AAZzdGF0dXNzcQB+AAyUboXEdAAGRVhQRUNUc3EAfgAMEn6wVnQACExPQ0FUSU9Oc3EAfgAMIzDoV3QABFZBUllzcQB+AAzzugdNdAAQV1dXX0FVVEhFTlRJQ0FURXNxAH4ADH06Vvh0AAtBcHBsaWNhdGlvbnNxAH4ADGgigkx0AARUT0RPc3EAfgAMlA3OVHQACWZvcmJpZGRlbnNxAH4ADL958bp0AA9YX0ZPUldBUkRFRF9GT1JzcQB+AAwfc5gvdAAKYWNjZXNzJDAwMHNxAH4ADN9PrAh0AAtmb3JtRmFjdG9yeXNxAH4ADCQRTnh0AAhBQ0NFUFRFRHNxAH4ADFlOT250AApOT19DT05URU5Uc3EAfgAMJBi1bnQADGRpc2Nvbm5lY3RlZHNxAH4ADBLct+h0ABVJTlRFUk5BTF9TRVJWRVJfRVJST1JzcQB+AAwdwsdXdAAOb25EaXNjb25uZWN0ZWRzcQB+AAwJw8widAAHVVBHUkFERXNxAH4ADMBO0qp0AAlOT1RfRk9VTkRzcQB+AAylGwKFdAAHc2Vzc2lvbnNxAH4ADBAtujF0AA9BQ0NFUFRfRU5DT0RJTkdzcQB+AAx38HKHdAAHRVhQSVJFU3NxAH4ADKEaVDZ0AAhzZWVPdGhlcnNxAH4ADEP4QZ90AB9SRVFVRVNURURfUkFOR0VfTk9UX1NBVElTRklBQkxFc3EAfgAMre5aOXQAEFVQR1JBREVfUkVRVUlSRURzcQB+AAyBDKuvdAAHbWVzc2FnZXNxAH4ADDGzEyd0AAh0b1N0cmluZ3NxAH4ADPIUuJ10AAZBQ0NFUFRzcQB+AAzAwHejdAAKY2hhbmdlTGFuZ3NxAH4ADDv3A5t0AA9HQVRFV0FZX1RJTUVPVVRzcQB+AAy/HsW6dAAJd2hlblJlYWR5c3EAfgAMxArBznQABlNFUlZFUnNxAH4ADLxpzOV0AB1BQ0NFU1NfQ09OVFJPTF9SRVFVRVNUX01FVEhPRHNxAH4ADBXuRtt0ABRVTlBST0NFU1NBQkxFX0VOVElUWXNxAH4ADEIN5Nt0ABZBQ0NFU1NfQ09OVFJPTF9NQVhfQUdFc3EAfgAMhjHTR3QADUxBU1RfTU9ESUZJRURzcQB+AAx+TCFydAAdQUNDRVNTX0NPTlRST0xfRVhQT1NFX0hFQURFUlNzcQB+AAyz5PSFdAAeQUNDRVNTX0NPTlRST0xfUkVRVUVTVF9IRUFERVJTc3EAfgAMMPbAkXQABWZsYXNoc3EAfgAMLztFvHQAE2ludGVybmFsU2VydmVyRXJyb3JzcQB+AAwHr4gEdAACb2tzcQB+AAw0RI3idAAFQUxMT1dzcQB+AAzLxnVzdAAGQ09PS0lFc3EAfgAM6nngEnQAEUlGX01PRElGSUVEX1NJTkNFc3EAfgAMHV0c+HQACGdldENsYXNzc3EAfgAMUmgMQ3QAGUNPTlRFTlRfVFJBTlNGRVJfRU5DT0RJTkdzcQB+AAwWE/NSdAAEbGFuZ3NxAH4ADCIQMSV0AB1OT05fQVVUSE9SSVRBVElWRV9JTkZPUk1BVElPTnNxAH4ADJCxDtN0AAVjbG9zZXNxAH4ADBj76wx0AAZQUkFHTUFzcQB+AAw/4wRsdAAISUZfTUFUQ0hzcQB+AAyi61eKdAAdUFJPWFlfQVVUSEVOVElDQVRJT05fUkVRVUlSRURzcQB+AAyN0yHldAANUkVTRVRfQ09OVEVOVHNxAH4ADA9UIId0AAlTRUVfT1RIRVJzcQB+AAyVPMY1dAARRkFJTEVEX0RFUEVOREVOQ1lzcQB+AAxkaI0adAAQQ09OVEVOVF9FTkNPRElOR3NxAH4ADCJ8Etl0AAVSQU5HRXNxAH4ADHlN0vp0AAlVU0VfUFJPWFlzcQB+AAx1Me+idAAOUmVzdWx0cyRDaHVua3NzcQB+AAwD1jvAdAAUUkVRVUVTVF9VUklfVE9PX0xPTkdzcQB+AAxYFEHFdAAId3JpdGFibGVzcQB+AAxBGF1ldAAGTE9DS0VEc3EAfgAMIENf63QACUZPUkJJRERFTnNxAH4ADDRjsep0ABJNRVRIT0RfTk9UX0FMTE9XRURzcQB+AAx/tcP2dAAFd3JpdGVzcQB+AAzqMGsqdAANSUZfTk9ORV9NQVRDSHNxAH4ADMa9rsV0AA1BQ0NFUFRfUkFOR0VTc3EAfgAMHai6BXQACW5vQ29udGVudHNxAH4ADF4uln10ABBYX1JFUVVFU1RFRF9XSVRIc3EAfgAMN7Y2fXQAEVhfRk9SV0FSREVEX1BST1RPc3EAfgAMbSdE0nQADE1VTFRJX1NUQVRVU3NxAH4ADOR6Wql0ABNTRVJWSUNFX1VOQVZBSUxBQkxFc3EAfgAMWvVFt3QABWluZGV4c3EAfgAM1JJDiXQAB2NyZWF0ZWRzcQB+AAwq46YadAAIaGFzaENvZGVzcQB+AAyTP1fxdAAEc2VsbHNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAJzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AYV4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc8cREyFpnNwkAgABQgAFZmxhZ3N4cAB0ABdjb250cm9sbGVycy5BcHBsaWNhdGlvbnVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQACENsYXNzRGVmdXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAnQAGXBsYXkuZGIuanBhLlRyYW5zYWN0aW9uYWx0AAxzY2FsYS50aHJvd3NzcgATeHNidGkuU2FmZUxhenkkSW1wbFACLpOXl0A/AgADWgAIYml0bWFwJDBMAAJfdHQAEkxqYXZhL2xhbmcvT2JqZWN0O0wABGV2YWx0ABFMc2NhbGEvRnVuY3Rpb24wO3hyABZ4c2J0aS5hcGkuQWJzdHJhY3RMYXp503e1AV+756ACAAB4cAFzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5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
+C:\cygwin\home\KG\p4\app\Global.java -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHC4IVHqAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAAHNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAB1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAHNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVF+/Oh91cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+ABp4cHQALkM6XGN5Z3dpblxob21lXEtHXHA0XHRhcmdldFxzY2FsYS0yLjExXGNsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABSTdTFKzBEPXFU9Ve8z3T4mfEFjtg==
+C:\cygwin\home\KG\p4\app\models\Inventory.java -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHC4o6JVAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAF3NyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cCpQ8JN0AAZub3RpZnlzcQB+AAw6xBWddAALZ2V0SW5zdGFuY2VzcQB+AAy/sQ/GdAARZ2V0U3RvcmVJbnZlbnRvcnlzcQB+AAy0Y8SSdAAEd2FpdHNxAH4ADETXQep0AA1zZWxmSW52ZW50b3J5c3EAfgAMkxNZjXQABmVxdWFsc3NxAH4ADNyNIIN0AApzdG9yZU1vbmV5c3EAfgAMUNQHt3QABWl0ZW1zc3EAfgAMYueK5HQADnN0b3JlSW52ZW50b3J5c3EAfgAMIfP6NnQACGluc3RhbmNlc3EAfgAMYOrO/3QACW5vdGlmeUFsbHNxAH4ADG+i6ip0AAY8aW5pdD5zcQB+AAz9NhVudAAKZ2V0TWVzc2FnZXNxAH4ADB1n/AN0AAlJbnZlbnRvcnlzcQB+AAzwbQdgdAAJc2VsZk1vbmV5c3EAfgAMaEglCnQADGdldFNlbGZNb25leXNxAH4ADDPiQBx0ABBnZXRTZWxmSW52ZW50b3J5c3EAfgAMy2D4CXQACGdldEl0ZW1zc3EAfgAME6k41XQAB21lc3NhZ2VzcQB+AAw9VqsfdAAIdG9TdHJpbmdzcQB+AAzF3dtodAANZ2V0U3RvcmVNb25leXNxAH4ADEF0HbZ0AAhnZXRDbGFzc3NxAH4ADH08Olp0AAhoYXNoQ29kZXNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAJzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AEV4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc8cREyFpnNwkAgABQgAFZmxhZ3N4cAB0ABBtb2RlbHMuSW52ZW50b3J5dXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAIQ2xhc3NEZWZ1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAABdAAMc2NhbGEudGhyb3dzc3IAE3hzYnRpLlNhZmVMYXp5JEltcGxQAi6Tl5dAPwIAA1oACGJpdG1hcCQwTAACX3R0ABJMamF2YS9sYW5nL09iamVjdDtMAARldmFsdAARTHNjYWxhL0Z1bmN0aW9uMDt4cgAWeHNidGkuYXBpLkFic3RyYWN0TGF6edN3tQFfu+egAgAAeHABc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHBzcQB+AF4Bc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AEVMAAlpbmhlcml0ZWRxAH4ARUwAB3BhcmVudHNxAH4ARXhxAH4AZXNxAH4AXgF1cQB+AEAAAAAAcHNxAH4AXgF1cQB+AEAAAAAAcHNxAH4AXgF1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAXNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AGR0AAZPYmplY3RzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AGRzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAANzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABGphdmFzcQB+AH10AARsYW5nc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AH5wcHNxAH4AQnEAfgBPcQB+AFFxAH4AU3EAfgBUcQB+AFZ+cQB+AFd0AAZNb2R1bGV1cQB+AFsAAAAAc3EAfgBeAXEAfgBmcHNxAH4AXgFzcQB+AGhzcQB+AF4BdXEAfgBAAAAAAHBzcQB+AF4BdXEAfgBAAAAAAHBzcQB+AF4BdXEAfgBvAAAAAHBwdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAAFzcgAReHNidGkuYXBpLlBhY2thZ2V+WY/2rs45WAIAAUwABG5hbWVxAH4ADXhwdAAGbW9kZWxzc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFUdDWJK3VyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0AC5DOlxjeWd3aW5caG9tZVxLR1xwNFx0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUGRbYbEYZXM5S964nHpBY5bBxOhY=
+C:\cygwin\home\KG\p4\app\models\Value.java -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHCr31o7AHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAADHNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cKPy/1V0AAZub3RpZnlzcQB+AAw562rSdAAEd2FpdHNxAH4ADJz8eAR0AAZlcXVhbHNzcQB+AAzIaZC4dAAHdmFsRGF0YXNxAH4ADF/iViF0AAVWYWx1ZXNxAH4ADDC0lLp0AAlub3RpZnlBbGxzcQB+AAxhWAJwdAAGPGluaXQ+c3EAfgAMdc/v0nQAAmlkc3EAfgAMShjV43QAB2dldERhdGFzcQB+AAxAfaN+dAAIdG9TdHJpbmdzcQB+AAzZB7xJdAAIZ2V0Q2xhc3NzcQB+AAyy8voSdAAIaGFzaENvZGVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAACc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgAveHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAABc3IAFHhzYnRpLmFwaS5Bbm5vdGF0aW9u3g6BovZcCrICAAJbAAlhcmd1bWVudHN0AB9bTHhzYnRpL2FwaS9Bbm5vdGF0aW9uQXJndW1lbnQ7TAAEYmFzZXQAEEx4c2J0aS9hcGkvVHlwZTt4cHVyAB9bTHhzYnRpLmFwaS5Bbm5vdGF0aW9uQXJndW1lbnQ7UZ2mjzglD3gCAAB4cAAAAAFzcgAceHNidGkuYXBpLkFubm90YXRpb25Bcmd1bWVudNZFsdgDGxd8AgACTAAEbmFtZXEAfgANTAAFdmFsdWVxAH4ADXhwcQB+ACF0ACBAamF2YXgucGVyc2lzdGVuY2UuRW50aXR5KG5hbWU9KXNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHB0AAZFbnRpdHlzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AEdzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAANzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABWphdmF4c3EAfgBTdAALcGVyc2lzdGVuY2VzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4AVHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzxxETIWmc3CQCAAFCAAVmbGFnc3hwAHQADG1vZGVscy5WYWx1ZXVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQACENsYXNzRGVmdXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAXQADHNjYWxhLnRocm93c3NyABN4c2J0aS5TYWZlTGF6eSRJbXBsUAIuk5eXQD8CAANaAAhiaXRtYXAkMEwAAl90dAASTGphdmEvbGFuZy9PYmplY3Q7TAAEZXZhbHQAEUxzY2FsYS9GdW5jdGlvbjA7eHIAFnhzYnRpLmFwaS5BYnN0cmFjdExhennTd7UBX7vnoAIAAHhwAXNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cQB+AEdwc3EAfgBnAXNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgAvTAAJaW5oZXJpdGVkcQB+AC9MAAdwYXJlbnRzcQB+AC94cQB+AEhzcQB+AGcBdXEAfgAqAAAAAHBzcQB+AGcBdXEAfgAqAAAAAHBzcQB+AGcBdXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAFzcQB+AEV0AAZPYmplY3RzcQB+AEtzcQB+AE51cQB+AFEAAAADc3EAfgBTdAAEamF2YXNxAH4AU3QABGxhbmdxAH4AWnBwc3EAfgAscQB+ADlxAH4AO3EAfgBccQB+AF1xAH4AX35xAH4AYHQABk1vZHVsZXVxAH4AZAAAAABzcQB+AGcBcQB+AG1wc3EAfgBnAXNxAH4Ab3NxAH4AZwF1cQB+ACoAAAAAcHNxAH4AZwF1cQB+ACoAAAAAcHNxAH4AZwF1cQB+AHYAAAAAcHB1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAXNyABF4c2J0aS5hcGkuUGFja2FnZX5Zj/auzjlYAgABTAAEbmFtZXEAfgANeHB0AAZtb2RlbHNzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAVRfvzofdXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQALkM6XGN5Z3dpblxob21lXEtHXHA0XHRhcmdldFxzY2FsYS0yLjExXGNsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABR8DeR871fwf6Rac8iUgUk/1owRmg==
+C:\cygwin\home\KG\p4\target\scala-2.11\routes\main\controllers\javascript\JavaScriptReverseRoutes.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHBrAuJxAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAInNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cPRE0t90AAZub3RpZnlzcQB+AAyxPWrLdAAOX2RlZmF1bHRQcmVmaXhzcQB+AAzERvmXdAAEd2FpdHNxAH4ADN9I65p0AA0kYXNJbnN0YW5jZU9mc3EAfgAMrlh2o3QADXNlbGZJbnZlbnRvcnlzcQB+AAzjVDrydAAGZXF1YWxzc3EAfgAMy5aZOHQADGFzSW5zdGFuY2VPZnNxAH4ADCuutht0AAlwcmljZUxpc3RzcQB+AAxNPNdadAAMc3luY2hyb25pemVkc3EAfgAM9z2T5XQACnN0b3JlTW9uZXlzcQB+AAwSFcOBdAANJGlzSW5zdGFuY2VPZnNxAH4ADBRqRS50AA5zdG9yZUludmVudG9yeXNxAH4ADKboGLN0AA1SZXZlcnNlQXNzZXRzc3EAfgAMWb6PqXQACW5vdGlmeUFsbHNxAH4ADGD+xmx0AANidXlzcQB+AAy84Ph3dAAMaXNJbnN0YW5jZU9mc3EAfgAMR1tSXHQABjxpbml0PnNxAH4ADCKdtA10AAJhdHNxAH4ADNNNtnJ0AAlzZWxmTW9uZXlzcQB+AAxTL6eEdAAJZ2V0VmFsdWVzc3EAfgAM3yjK+HQAAj09c3EAfgAMPy76QnQABWNsb25lc3EAfgAM2K6yFnQAB21lc3NhZ2VzcQB+AAxBAerYdAAIdG9TdHJpbmdzcQB+AAybJvCKdAACIT1zcQB+AAxgi93ddAAIZ2V0Q2xhc3NzcQB+AAzkLF3mdAACbmVzcQB+AAzg47ZtdAACZXFzcQB+AAyVAhMGdAASUmV2ZXJzZUFwcGxpY2F0aW9uc3EAfgAMu6njEHQAAiMjc3EAfgAMk+e/LnQACGZpbmFsaXplc3EAfgAMHRou+HQABWluZGV4c3EAfgAMWKzHGXQACGhhc2hDb2Rlc3EAfgAMrQ9+WXQABHNlbGxzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAACc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgBbeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnPHERMhaZzcJAIAAUIABWZsYWdzeHAAdAAkY29udHJvbGxlcnMuamF2YXNjcmlwdC5SZXZlcnNlQXNzZXRzdXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAIQ2xhc3NEZWZ1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAE3hzYnRpLlNhZmVMYXp5JEltcGxQAi6Tl5dAPwIAA1oACGJpdG1hcCQwTAACX3R0ABJMamF2YS9sYW5nL09iamVjdDtMAARldmFsdAARTHNjYWxhL0Z1bmN0aW9uMDt4cgAWeHNidGkuYXBpLkFic3RyYWN0TGF6edN3tQFfu+egAgAAeHAAcHNyACB4c2J0aS5TYWZlTGF6eSQkYW5vbmZ1biRzdHJpY3QkMQAAAAAAAAAAAgABTAAHdmFsdWUkMXEAfgB0eHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgBzAXNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgBbTAAJaW5oZXJpdGVkcQB+AFtMAAdwYXJlbnRzcQB+AFt4cQB+AHxzcQB+AHMBdXEAfgBWAAAAAHBzcQB+AHMBdXEAfgBWAAAAAHBzcQB+AHMBdXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAJzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgB7dAAGT2JqZWN0c3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgB7c3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAADc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AARqYXZhc3EAfgCUdAAEbGFuZ3NyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgCVc3EAfgCIdAADQW55c3EAfgCMc3EAfgCPdXEAfgCSAAAAAnNxAH4AlHQABXNjYWxhcQB+AJtwcHNxAH4AWHEAfgBldXEAfgBmAAAAAHNxAH4AaAB0ACljb250cm9sbGVycy5qYXZhc2NyaXB0LlJldmVyc2VBcHBsaWNhdGlvbnVxAH4AawAAAABxAH4Ab3VxAH4AcQAAAABzcQB+AHMAcHNxAH4AeHEAfgB9c3EAfgBzAXNxAH4Af3NxAH4AcwF1cQB+AFYAAAAAcHNxAH4AcwF1cQB+AFYAAAAAcHNxAH4AcwF1cQB+AIYAAAACc3EAfgCIcQB+AItzcQB+AIxzcQB+AI91cQB+AJIAAAADc3EAfgCUcQB+AJdzcQB+AJRxAH4AmXEAfgCbc3EAfgCIcQB+AJ1zcQB+AIxzcQB+AI91cQB+AJIAAAACc3EAfgCUcQB+AKJxAH4Am3BwdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAAJzcgAReHNidGkuYXBpLlBhY2thZ2V+WY/2rs45WAIAAUwABG5hbWVxAH4ADXhwdAAWY29udHJvbGxlcnMuamF2YXNjcmlwdHNxAH4AwHQAC2NvbnRyb2xsZXJzc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFUX786H3VyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0AC5DOlxjeWd3aW5caG9tZVxLR1xwNFx0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUiBffbDeNrDk10baoM2hpXkua8PI=
+C:\cygwin\home\KG\p4\target\scala-2.11\routes\main\controllers\ReverseRoutes.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHC4oXgZAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAInNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cLX/hn90AAZub3RpZnlzcQB+AAwNY54RdAAOX2RlZmF1bHRQcmVmaXhzcQB+AAye/yeIdAAEd2FpdHNxAH4ADDF3VQd0AA0kYXNJbnN0YW5jZU9mc3EAfgAM9vL5CnQADXNlbGZJbnZlbnRvcnlzcQB+AAwTDH4odAAGZXF1YWxzc3EAfgAMBETnyXQADGFzSW5zdGFuY2VPZnNxAH4ADCxleaJ0AAlwcmljZUxpc3RzcQB+AAz9wkazdAAMc3luY2hyb25pemVkc3EAfgAMjzzcs3QACnN0b3JlTW9uZXlzcQB+AAwhuZsSdAANJGlzSW5zdGFuY2VPZnNxAH4ADGGaFg10AA5zdG9yZUludmVudG9yeXNxAH4ADNSC0ld0AA1SZXZlcnNlQXNzZXRzc3EAfgAMHFuGMXQACW5vdGlmeUFsbHNxAH4ADFplR+B0AANidXlzcQB+AAzoG7L5dAAMaXNJbnN0YW5jZU9mc3EAfgAMxrwvJ3QABjxpbml0PnNxAH4ADJUBOjl0AAJhdHNxAH4ADPTjs8F0AAlzZWxmTW9uZXlzcQB+AAwsBLcCdAAJZ2V0VmFsdWVzc3EAfgAM0yrghnQAAj09c3EAfgAM/jJginQABWNsb25lc3EAfgAMOVNpSnQAB21lc3NhZ2VzcQB+AAyqMRBIdAAIdG9TdHJpbmdzcQB+AAyG7xytdAACIT1zcQB+AAymOOgCdAAIZ2V0Q2xhc3NzcQB+AAzJwdHQdAACbmVzcQB+AAyg1lXtdAACZXFzcQB+AAxhFaA5dAASUmV2ZXJzZUFwcGxpY2F0aW9uc3EAfgAMpzysgnQAAiMjc3EAfgAMHhOtjHQACGZpbmFsaXplc3EAfgAMZdY9vHQABWluZGV4c3EAfgAMxblRIHQACGhhc2hDb2Rlc3EAfgAMdo6J/3QABHNlbGxzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAACc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgBbeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnPHERMhaZzcJAIAAUIABWZsYWdzeHAAdAAZY29udHJvbGxlcnMuUmV2ZXJzZUFzc2V0c3VyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQACENsYXNzRGVmdXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyABN4c2J0aS5TYWZlTGF6eSRJbXBsUAIuk5eXQD8CAANaAAhiaXRtYXAkMEwAAl90dAASTGphdmEvbGFuZy9PYmplY3Q7TAAEZXZhbHQAEUxzY2FsYS9GdW5jdGlvbjA7eHIAFnhzYnRpLmFwaS5BYnN0cmFjdExhennTd7UBX7vnoAIAAHhwAHBzcgAgeHNidGkuU2FmZUxhenkkJGFub25mdW4kc3RyaWN0JDEAAAAAAAAAAAIAAUwAB3ZhbHVlJDFxAH4AdHhwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4AcwFzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AW0wACWluaGVyaXRlZHEAfgBbTAAHcGFyZW50c3EAfgBbeHEAfgB8c3EAfgBzAXVxAH4AVgAAAABwc3EAfgBzAXVxAH4AVgAAAABwc3EAfgBzAXVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAACc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4Ae3QABk9iamVjdHNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4Ae3NyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAA3NyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAEamF2YXNxAH4AlHQABGxhbmdzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4AlXNxAH4AiHQAA0FueXNxAH4AjHNxAH4Aj3VxAH4AkgAAAAJzcQB+AJR0AAVzY2FsYXEAfgCbcHBzcQB+AFhxAH4AZXVxAH4AZgAAAABzcQB+AGgAdAAeY29udHJvbGxlcnMuUmV2ZXJzZUFwcGxpY2F0aW9udXEAfgBrAAAAAHEAfgBvdXEAfgBxAAAAAHNxAH4AcwBwc3EAfgB4cQB+AH1zcQB+AHMBc3EAfgB/c3EAfgBzAXVxAH4AVgAAAABwc3EAfgBzAXVxAH4AVgAAAABwc3EAfgBzAXVxAH4AhgAAAAJzcQB+AIhxAH4Ai3NxAH4AjHNxAH4Aj3VxAH4AkgAAAANzcQB+AJRxAH4Al3NxAH4AlHEAfgCZcQB+AJtzcQB+AIhxAH4AnXNxAH4AjHNxAH4Aj3VxAH4AkgAAAAJzcQB+AJRxAH4AonEAfgCbcHB1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAXNyABF4c2J0aS5hcGkuUGFja2FnZX5Zj/auzjlYAgABTAAEbmFtZXEAfgANeHB0AAtjb250cm9sbGVyc3NyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVF+/Oh91cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdAAuQzpcY3lnd2luXGhvbWVcS0dccDRcdGFyZ2V0XHNjYWxhLTIuMTFcY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFGyMkBAH60iAAUdLL3stq/F3Ydht
+C:\cygwin\home\KG\p4\target\scala-2.11\routes\main\controllers\routes.java -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHAIl4F+AHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAADHNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cDWEMsN0AAZub3RpZnlzcQB+AAwiIU/tdAAGQXNzZXRzc3EAfgAMbXrq1HQABHdhaXRzcQB+AAwfqLrQdAAGcm91dGVzc3EAfgAMVTZc4nQABmVxdWFsc3NxAH4ADNzwkR50ABFyb3V0ZXMkamF2YXNjcmlwdHNxAH4ADH5hOHh0AAlub3RpZnlBbGxzcQB+AAzRnyHkdAAGPGluaXQ+c3EAfgAMS1Yq5HQAC0FwcGxpY2F0aW9uc3EAfgAMVarO+HQACHRvU3RyaW5nc3EAfgAMIQt8cHQACGdldENsYXNzc3EAfgAMHufqNnQACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAnNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AL3hyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzxxETIWmc3CQCAAFCAAVmbGFnc3hwAHQAEmNvbnRyb2xsZXJzLnJvdXRlc3VyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQACENsYXNzRGVmdXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAXQADHNjYWxhLnRocm93c3NyABN4c2J0aS5TYWZlTGF6eSRJbXBsUAIuk5eXQD8CAANaAAhiaXRtYXAkMEwAAl90dAASTGphdmEvbGFuZy9PYmplY3Q7TAAEZXZhbHQAEUxzY2FsYS9GdW5jdGlvbjA7eHIAFnhzYnRpLmFwaS5BYnN0cmFjdExhennTd7UBX7vnoAIAAHhwAXNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBwc3EAfgBIAXNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgAvTAAJaW5oZXJpdGVkcQB+AC9MAAdwYXJlbnRzcQB+AC94cQB+AE9zcQB+AEgBdXEAfgAqAAAAAHBzcQB+AEgBdXEAfgAqAAAAAHBzcQB+AEgBdXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAFzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgBOdAAGT2JqZWN0c3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgBOc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAADc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AARqYXZhc3EAfgBndAAEbGFuZ3NyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgBocHBzcQB+ACxxAH4AOXEAfgA7cQB+AD1xAH4APnEAfgBAfnEAfgBBdAAGTW9kdWxldXEAfgBFAAAAAHNxAH4ASAFxAH4AUHBzcQB+AEgBc3EAfgBSc3EAfgBIAXVxAH4AKgAAAABwc3EAfgBIAXVxAH4AKgAAAABwc3EAfgBIAXVxAH4AWQAAAABwcHVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAABc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AA14cHQAC2NvbnRyb2xsZXJzc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFUX786H3VyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0AC5DOlxjeWd3aW5caG9tZVxLR1xwNFx0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUi6WtkzbP8pbQYKBYExdEy0n0vY0=
+C:\cygwin\home\KG\p4\target\scala-2.11\routes\main\router\Routes.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHDtYWFcAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAN3NyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cE2B+bZ0AAZub3RpZnlzcQB+AAxlm95SdAAKYmFkUmVxdWVzdHNxAH4ADICYB9J0AAR3YWl0c3EAfgAMxe8A+3QAKGNvbnRyb2xsZXJzX0FwcGxpY2F0aW9uX21lc3NhZ2U4X2ludm9rZXJzcQB+AAxy9pV9dAANJGFzSW5zdGFuY2VPZnNxAH4ADEk2S3d0AAZyb3V0ZXNzcQB+AAyee8dJdAANY3JlYXRlSW52b2tlcnNxAH4ADNEQ8Tx0AC5jb250cm9sbGVyc19BcHBsaWNhdGlvbl9zZWxmSW52ZW50b3J5N19pbnZva2Vyc3EAfgAMOgptHnQABmVxdWFsc3NxAH4ADFTH3+90AAZwcmVmaXhzcQB+AAzusQbedAAMYXNJbnN0YW5jZU9mc3EAfgAMAk/zSnQADWRvY3VtZW50YXRpb25zcQB+AAwoPJj4dAAmY29udHJvbGxlcnNfQXBwbGljYXRpb25faW5kZXgwX2ludm9rZXJzcQB+AAzIAcDgdAAMc3luY2hyb25pemVkc3EAfgAMJUet1HQALGNvbnRyb2xsZXJzX0FwcGxpY2F0aW9uX3NlbGZJbnZlbnRvcnk3X3JvdXRlc3EAfgAM6hwLLXQAK2NvbnRyb2xsZXJzX0FwcGxpY2F0aW9uX3N0b3JlTW9uZXk0X2ludm9rZXJzcQB+AAzaUbeFdAANJGlzSW5zdGFuY2VPZnNxAH4ADEOocK90AApoYW5kbGVyRm9yc3EAfgAMZSSvc3QAKGNvbnRyb2xsZXJzX0FwcGxpY2F0aW9uX3ByaWNlTGlzdDlfcm91dGVzcQB+AAzxTVAydAAJbm90aWZ5QWxsc3EAfgAMIzN72XQALWNvbnRyb2xsZXJzX0FwcGxpY2F0aW9uX3N0b3JlSW52ZW50b3J5NV9yb3V0ZXNxAH4ADMhmhNR0AAxpc0luc3RhbmNlT2ZzcQB+AAxRHo33dAAGYXNKYXZhc3EAfgAMzktFqHQADGVycm9ySGFuZGxlcnNxAH4ADGN5c1x0AAY8aW5pdD5zcQB+AAwUsqgXdAAmY29udHJvbGxlcnNfQXBwbGljYXRpb25fbWVzc2FnZThfcm91dGVzcQB+AAzgJVZ7dAAdY29udHJvbGxlcnNfQXNzZXRzX2F0MTBfcm91dGVzcQB+AAxa6Ge3dAACPT1zcQB+AAxjlj2fdAAvY29udHJvbGxlcnNfQXBwbGljYXRpb25fc3RvcmVJbnZlbnRvcnk1X2ludm9rZXJzcQB+AAycbINZdAApY29udHJvbGxlcnNfQXBwbGljYXRpb25fc3RvcmVNb25leTRfcm91dGVzcQB+AAwx3cesdAAFY2xvbmVzcQB+AAySJupEdAAGUm91dGVzc3EAfgAMt0jr8HQACHRvU3RyaW5nc3EAfgAMfBJNE3QAJWNvbnRyb2xsZXJzX0FwcGxpY2F0aW9uX3NlbGwyX2ludm9rZXJzcQB+AAzJvyfIdAACIT1zcQB+AAzKUeMrdAAJZmFrZVZhbHVlc3EAfgAM3+lgN3QAJGNvbnRyb2xsZXJzX0FwcGxpY2F0aW9uX2J1eTFfaW52b2tlcnNxAH4ADHSi/xh0AAhnZXRDbGFzc3NxAH4ADNh/afV0ACpjb250cm9sbGVyc19BcHBsaWNhdGlvbl9zZWxmTW9uZXk2X2ludm9rZXJzcQB+AAwVJPhmdAAjY29udHJvbGxlcnNfQXBwbGljYXRpb25fc2VsbDJfcm91dGVzcQB+AAyj9I9gdAAfY29udHJvbGxlcnNfQXNzZXRzX2F0MTBfaW52b2tlcnNxAH4ADLdJFnN0ACpjb250cm9sbGVyc19BcHBsaWNhdGlvbl9wcmljZUxpc3Q5X2ludm9rZXJzcQB+AAwIUQcBdAAkY29udHJvbGxlcnNfQXBwbGljYXRpb25faW5kZXgwX3JvdXRlc3EAfgAMMmBJpHQAAm5lc3EAfgAMBXHxLHQACndpdGhQcmVmaXhzcQB+AAwdlrCudAAEY2FsbHNxAH4ADJsYiaR0AChjb250cm9sbGVyc19BcHBsaWNhdGlvbl9nZXRWYWx1ZXMzX3JvdXRlc3EAfgAMs/1wWXQAKGNvbnRyb2xsZXJzX0FwcGxpY2F0aW9uX3NlbGZNb25leTZfcm91dGVzcQB+AAz3VL9+dAACZXFzcQB+AAztAQC+dAAqY29udHJvbGxlcnNfQXBwbGljYXRpb25fZ2V0VmFsdWVzM19pbnZva2Vyc3EAfgAMxe5FOHQADWRlZmF1bHRQcmVmaXhzcQB+AAz3Ur0QdAACIyNzcQB+AAxtA/WddAAIZmluYWxpemVzcQB+AAyFs1FvdAAIaGFzaENvZGVzcQB+AAyxXqZVdAAiY29udHJvbGxlcnNfQXBwbGljYXRpb25fYnV5MV9yb3V0ZXNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AIV4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc8cREyFpnNwkAgABQgAFZmxhZ3N4cAB0AA1yb3V0ZXIuUm91dGVzdXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAIQ2xhc3NEZWZ1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAABdAATamF2YXguaW5qZWN0LkluamVjdHNyABN4c2J0aS5TYWZlTGF6eSRJbXBsUAIuk5eXQD8CAANaAAhiaXRtYXAkMEwAAl90dAASTGphdmEvbGFuZy9PYmplY3Q7TAAEZXZhbHQAEUxzY2FsYS9GdW5jdGlvbjA7eHIAFnhzYnRpLmFwaS5BYnN0cmFjdExhennTd7UBX7vnoAIAAHhwAXNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBwc3EAfgCeAXNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgCFTAAJaW5oZXJpdGVkcQB+AIVMAAdwYXJlbnRzcQB+AIV4cQB+AKVzcQB+AJ4BdXEAfgCAAAAAAHBzcQB+AJ4BdXEAfgCAAAAAAHBzcQB+AJ4BdXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAARzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgCkdAAPR2VuZXJhdGVkUm91dGVyc3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgCkc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAAEc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AARwbGF5c3EAfgC9dAAEY29yZXNxAH4AvXQAB3JvdXRpbmdzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4AvnNxAH4AsXQABlJvdXRlcnNxAH4AtXNxAH4AuHVxAH4AuwAAAARzcQB+AL10AARwbGF5c3EAfgC9dAADYXBpc3EAfgC9dAAHcm91dGluZ3EAfgDGc3EAfgCxdAAGT2JqZWN0c3EAfgC1c3EAfgC4dXEAfgC7AAAAA3NxAH4AvXQABGphdmFzcQB+AL10AARsYW5ncQB+AMZzcQB+ALF0AANBbnlzcQB+ALVzcQB+ALh1cQB+ALsAAAACc3EAfgC9dAAFc2NhbGFxAH4AxnBwdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAAFzcgAReHNidGkuYXBpLlBhY2thZ2V+WY/2rs45WAIAAUwABG5hbWVxAH4ADXhwdAAGcm91dGVyc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFUX786H3VyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0AC5DOlxjeWd3aW5caG9tZVxLR1xwNFx0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUzQYpK2ZuwstvHEI5hNJkC71DxLg=
+C:\cygwin\home\KG\p4\target\scala-2.11\routes\main\router\RoutesPrefix.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHBcdvxBAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAGHNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cN0jWmN0AAZub3RpZnlzcQB+AAw6mfPpdAAMYnlOYW1lUHJlZml4c3EAfgAMGqAuKnQABHdhaXRzcQB+AAwiihQedAANJGFzSW5zdGFuY2VPZnNxAH4ADGlC0gh0AAZlcXVhbHNzcQB+AAxzjiBXdAAGcHJlZml4c3EAfgAMoe4en3QADGFzSW5zdGFuY2VPZnNxAH4ADLjZuch0AAxSb3V0ZXNQcmVmaXhzcQB+AAzBVSPudAAMc3luY2hyb25pemVkc3EAfgAM3PW0o3QADSRpc0luc3RhbmNlT2ZzcQB+AAxQkfPHdAAHX3ByZWZpeHNxAH4ADL28U7F0AAlub3RpZnlBbGxzcQB+AAz/ysYxdAAMaXNJbnN0YW5jZU9mc3EAfgAM2W34NHQAAj09c3EAfgAMxTNSy3QABWNsb25lc3EAfgAM+6h7k3QACHRvU3RyaW5nc3EAfgAMjL/9EnQAAiE9c3EAfgAMFWcPZ3QACGdldENsYXNzc3EAfgAMRJBH63QACXNldFByZWZpeHNxAH4ADA44Ta90AAJuZXNxAH4ADBnhnUh0AAJlcXNxAH4ADBp2Pzd0AAIjI3NxAH4ADAff5nh0AAhmaW5hbGl6ZXNxAH4ADIIAnnp0AAhoYXNoQ29kZXNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AEd4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc8cREyFpnNwkAgABQgAFZmxhZ3N4cAB0ABNyb3V0ZXIuUm91dGVzUHJlZml4dXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAGTW9kdWxldXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyABN4c2J0aS5TYWZlTGF6eSRJbXBsUAIuk5eXQD8CAANaAAhiaXRtYXAkMEwAAl90dAASTGphdmEvbGFuZy9PYmplY3Q7TAAEZXZhbHQAEUxzY2FsYS9GdW5jdGlvbjA7eHIAFnhzYnRpLmFwaS5BYnN0cmFjdExhennTd7UBX7vnoAIAAHhwAXNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBwc3EAfgBfAXNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgBHTAAJaW5oZXJpdGVkcQB+AEdMAAdwYXJlbnRzcQB+AEd4cQB+AGZzcQB+AF8BdXEAfgBCAAAAAHBzcQB+AF8BdXEAfgBCAAAAAHBzcQB+AF8BdXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAJzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgBldAAGT2JqZWN0c3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgBlc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAADc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AARqYXZhc3EAfgB+dAAEbGFuZ3NyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgB/c3EAfgBydAADQW55c3EAfgB2c3EAfgB5dXEAfgB8AAAAAnNxAH4AfnQABXNjYWxhcQB+AIVwcHVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAABc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AA14cHQABnJvdXRlcnNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVF+/Oh91cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdAAuQzpcY3lnd2luXGhvbWVcS0dccDRcdGFyZ2V0XHNjYWxhLTIuMTFcY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFMGNd4O93wlVrZr5qH85mAxkM8dg
+C:\cygwin\home\KG\p4\target\scala-2.11\twirl\main\views\html\index.template.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHAsf9gzAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAJHNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cLS+QU10AAZub3RpZnlzcQB+AAxQf3PrdAAGZm9ybWF0c3EAfgAMVtIRoXQABHdhaXRzcQB+AAxKygp4dAANJGFzSW5zdGFuY2VPZnNxAH4ADCKh30h0AAxwcm9kdWN0QXJpdHlzcQB+AAx/zHL+dAAGZXF1YWxzc3EAfgAMUyrnj3QADGFzSW5zdGFuY2VPZnNxAH4ADHeAxkV0AAFmc3EAfgAMkLniQXQADHN5bmNocm9uaXplZHNxAH4ADB1SNXV0AAlfZGlzcGxheV9zcQB+AAyY8Oy2dAANJGlzSW5zdGFuY2VPZnNxAH4ADCzIbWR0AANyZWZzcQB+AAyjSKeidAAIY2FuRXF1YWxzcQB+AAzQ/BnBdAAMaW5kZXhfU2NvcGUwc3EAfgAMs6ty1nQADXByb2R1Y3RQcmVmaXhzcQB+AAxpq4t3dAAJbm90aWZ5QWxsc3EAfgAM1hxODHQAC3JlYWRSZXNvbHZlc3EAfgAMu41roHQADGlzSW5zdGFuY2VPZnNxAH4ADI25paV0AAY8aW5pdD5zcQB+AAzj0OxPdAAFYXBwbHlzcQB+AAzXQQF9dAACPT1zcQB+AAyP2tpCdAAFY2xvbmVzcQB+AAx3dajcdAAEY29weXNxAH4ADEYLyvp0AAh0b1N0cmluZ3NxAH4ADHsslD90AAIhPXNxAH4ADIfoUUx0AAhnZXRDbGFzc3NxAH4ADLIMbAF0AA5jb3B5JGRlZmF1bHQkMXNxAH4ADFr6frp0AAZyZW5kZXJzcQB+AAypHxuedAACbmVzcQB+AAyRuGGXdAACZXFzcQB+AAxOmHwzdAAPcHJvZHVjdEl0ZXJhdG9yc3EAfgAMmBGk5XQAAiMjc3EAfgAMWGIkOXQACGZpbmFsaXplc3EAfgAMdCYN+nQABWluZGV4c3EAfgAMR9kkDnQADnByb2R1Y3RFbGVtZW50c3EAfgAMAD7BwnQACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAnNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AX3hyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzxxETIWmc3CQCAAFCAAVmbGFnc3hwAHQAF3ZpZXdzLmh0bWwuaW5kZXhfU2NvcGUwdXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAGTW9kdWxldXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyABN4c2J0aS5TYWZlTGF6eSRJbXBsUAIuk5eXQD8CAANaAAhiaXRtYXAkMEwAAl90dAASTGphdmEvbGFuZy9PYmplY3Q7TAAEZXZhbHQAEUxzY2FsYS9GdW5jdGlvbjA7eHIAFnhzYnRpLmFwaS5BYnN0cmFjdExhennTd7UBX7vnoAIAAHhwAXNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBwc3EAfgB3AXNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgBfTAAJaW5oZXJpdGVkcQB+AF9MAAdwYXJlbnRzcQB+AF94cQB+AH5zcQB+AHcBdXEAfgBaAAAAAHBzcQB+AHcBdXEAfgBaAAAAAHBzcQB+AHcBdXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAJzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgB9dAAGT2JqZWN0c3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABB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
+C:\cygwin\home\KG\p4\target\scala-2.11\twirl\main\views\html\main.template.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHC62KKtAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAJHNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cK7QIOp0AAZub3RpZnlzcQB+AAz4wsn4dAAGZm9ybWF0c3EAfgAMuAM/X3QABHdhaXRzcQB+AAwRusk1dAANJGFzSW5zdGFuY2VPZnNxAH4ADKwjYYZ0AAxwcm9kdWN0QXJpdHlzcQB+AAwrnx3QdAAGZXF1YWxzc3EAfgAMOmWTIHQADGFzSW5zdGFuY2VPZnNxAH4ADD8qARR0AAFmc3EAfgAMP7s1THQADHN5bmNocm9uaXplZHNxAH4ADGX6KSl0AAlfZGlzcGxheV9zcQB+AAwdRe37dAANJGlzSW5zdGFuY2VPZnNxAH4ADBPHuxV0AANyZWZzcQB+AAza0S78dAAIY2FuRXF1YWxzcQB+AAwtXV9EdAAEbWFpbnNxAH4ADCP9qbt0AA1wcm9kdWN0UHJlZml4c3EAfgAMK+/Fe3QACW5vdGlmeUFsbHNxAH4ADHntALR0AAtyZWFkUmVzb2x2ZXNxAH4ADA700bR0AAxpc0luc3RhbmNlT2ZzcQB+AAylgtkPdAAGPGluaXQ+c3EAfgAMvC00T3QABWFwcGx5c3EAfgAMnoiwMHQAAj09c3EAfgAMwg1sxHQABWNsb25lc3EAfgAMkdDvXnQAC21haW5fU2NvcGUwc3EAfgAMCTdDKXQABGNvcHlzcQB+AAzX13bHdAAIdG9TdHJpbmdzcQB+AAxU2ScrdAACIT1zcQB+AAw0BWpodAAIZ2V0Q2xhc3NzcQB+AAxbY/72dAAOY29weSRkZWZhdWx0JDFzcQB+AAxI2uyOdAAGcmVuZGVyc3EAfgAMNwb2AXQAAm5lc3EAfgAMuLvRynQAAmVxc3EAfgAMGiVaC3QAD3Byb2R1Y3RJdGVyYXRvcnNxAH4ADEVwPB10AAIjI3NxAH4ADKZIUSx0AAhmaW5hbGl6ZXNxAH4ADFR3k4F0AA5wcm9kdWN0RWxlbWVudHNxAH4ADAgCCRN0AAhoYXNoQ29kZXNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAJzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AF94cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc8cREyFpnNwkAgABQgAFZmxhZ3N4cAB0ABZ2aWV3cy5odG1sLm1haW5fU2NvcGUwdXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAGTW9kdWxldXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyABN4c2J0aS5TYWZlTGF6eSRJbXBsUAIuk5eXQD8CAANaAAhiaXRtYXAkMEwAAl90dAASTGphdmEvbGFuZy9PYmplY3Q7TAAEZXZhbHQAEUxzY2FsYS9GdW5jdGlvbjA7eHIAFnhzYnRpLmFwaS5BYnN0cmFjdExhennTd7UBX7vnoAIAAHhwAXNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBwc3EAfgB3AXNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgBfTAAJaW5oZXJpdGVkcQB+AF9MAAdwYXJlbnRzcQB+AF94cQB+AH5zcQB+AHcBdXEAfgBaAAAAAHBzcQB+AHcBdXEAfgBaAAAAAHBzcQB+AHcBdXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAJzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgB9dAAGT2JqZWN0c3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgB9c3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAADc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AARqYXZhc3EAfgCWdAAEbGFuZ3NyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgCXc3EAfgCKdAADQW55c3EAfgCOc3EAfgCRdXEAfgCUAAAAAnNxAH4AlnQABXNjYWxhcQB+AJ1wcHNxAH4AXHEAfgBpdXEAfgBqAAAAAHNxAH4AbAB0AA92aWV3cy5odG1sLm1haW51cQB+AG8AAAAAcQB+AHN1cQB+AHUAAAAAc3EAfgB3AXEAfgB/cHNxAH4AdwFzcQB+AIFzcQB+AHcBdXEAfgBaAAAAAHBzcQB+AHcBdXEAfgBaAAAAAHBzcQB+AHcBdXEAfgCIAAAACXNxAH4AinQABG1haW5zcQB+AIp0AAttYWluX1Njb3BlMHNxAH4AjnNxAH4AkXVxAH4AlAAAAANzcQB+AJZ0AAV2aWV3c3NxAH4AlnQABGh0bWxxAH4AnXNyABd4c2J0aS5hcGkuUGFyYW1ldGVyaXplZBZs7mkDybt/AgACTAAIYmFzZVR5cGVxAH4Ai1sADXR5cGVBcmd1bWVudHN0ABFbTHhzYnRpL2FwaS9UeXBlO3hxAH4AfXNxAH4AinQACVRlbXBsYXRlMnNxAH4AjnNxAH4AkXVxAH4AlAAAAARzcQB+AJZ0AARwbGF5c3EAfgCWdAAFdHdpcmxzcQB+AJZ0AANhcGlxAH4AnXVxAH4AiAAAAANzcQB+AIp0AAZTdHJpbmdzcQB+AI5zcQB+AJF1cQB+AJQAAAADc3EAfgCWcQB+AJlzcQB+AJZxAH4Am3EAfgCdc3EAfgCKdAAESHRtbHEAfgDEc3EAfgCKdAAESHRtbHEAfgDEc3EAfgC/c3EAfgCKdAARQmFzZVNjYWxhVGVtcGxhdGVxAH4AxHVxAH4AiAAAAAJxAH4A13NxAH4Av3NxAH4AinQABkZvcm1hdHEAfgDEdXEAfgCIAAAAAXEAfgDXc3EAfgCKdAAMU2VyaWFsaXphYmxlc3EAfgCOc3EAfgCRdXEAfgCUAAAAAnNxAH4AlnEAfgCkcQB+AJ1zcQB+AIpxAH4A4nNxAH4AjnNxAH4AkXVxAH4AlAAAAANzcQB+AJZxAH4AmXNxAH4AlnQAAmlvcQB+AJ1zcQB+AIp0AAdQcm9kdWN0cQB+AONzcQB+AIp0AAZFcXVhbHNxAH4A43NxAH4AinEAfgCNcQB+ANBzcQB+AIpxAH4An3EAfgDjcHB1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAnNyABF4c2J0aS5hcGkuUGFja2FnZX5Zj/auzjlYAgABTAAEbmFtZXEAfgANeHB0AAV2aWV3c3NxAH4A9nQACnZpZXdzLmh0bWxzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAVRfvzofdXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQALkM6XGN5Z3dpblxob21lXEtHXHA0XHRhcmdldFxzY2FsYS0yLjExXGNsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABQJY3NiFzPc/uHEAfHBJ86aCxPu4g==
+external apis:
+0 items
+source infos:
+11 items
+C:\cygwin\home\KG\p4\app\controllers\Application.java -> 
+AAAAAAAAAAA=
+C:\cygwin\home\KG\p4\app\Global.java -> 
+AAAAAAAAAAA=
+C:\cygwin\home\KG\p4\app\models\Inventory.java -> 
+AAAAAAAAAAA=
+C:\cygwin\home\KG\p4\app\models\Value.java -> 
+AAAAAAAAAAA=
+C:\cygwin\home\KG\p4\target\scala-2.11\routes\main\controllers\javascript\JavaScriptReverseRoutes.scala -> 
+AAAAAAAAAAA=
+C:\cygwin\home\KG\p4\target\scala-2.11\routes\main\controllers\ReverseRoutes.scala -> 
+AAAAAAAAAAA=
+C:\cygwin\home\KG\p4\target\scala-2.11\routes\main\controllers\routes.java -> 
+AAAAAAAAAAA=
+C:\cygwin\home\KG\p4\target\scala-2.11\routes\main\router\Routes.scala -> 
+AAAAAAAAAAA=
+C:\cygwin\home\KG\p4\target\scala-2.11\routes\main\router\RoutesPrefix.scala -> 
+AAAAAAAAAAA=
+C:\cygwin\home\KG\p4\target\scala-2.11\twirl\main\views\html\index.template.scala -> 
+AAAAAAAAAAA=
+C:\cygwin\home\KG\p4\target\scala-2.11\twirl\main\views\html\main.template.scala -> 
+AAAAAAAAAAA=
+compilations:
+35 items
+00 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVD8p/rJ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQALkM6XGN5Z3dpblxob21lXEtHXHA0XHRhcmdldFxzY2FsYS0yLjExXGNsYXNzZXN0AAEv
+01 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVD8t2fB1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQALkM6XGN5Z3dpblxob21lXEtHXHA0XHRhcmdldFxzY2FsYS0yLjExXGNsYXNzZXN0AAEv
+02 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVFrQOLx1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQALkM6XGN5Z3dpblxob21lXEtHXHA0XHRhcmdldFxzY2FsYS0yLjExXGNsYXNzZXN0AAEv
+03 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVFrSX/l1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQALkM6XGN5Z3dpblxob21lXEtHXHA0XHRhcmdldFxzY2FsYS0yLjExXGNsYXNzZXN0AAEv
+04 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVFrVnrJ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQALkM6XGN5Z3dpblxob21lXEtHXHA0XHRhcmdldFxzY2FsYS0yLjExXGNsYXNzZXN0AAEv
+05 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVFrWhKd1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQALkM6XGN5Z3dpblxob21lXEtHXHA0XHRhcmdldFxzY2FsYS0yLjExXGNsYXNzZXN0AAEv
+06 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVFrndqZ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQALkM6XGN5Z3dpblxob21lXEtHXHA0XHRhcmdldFxzY2FsYS0yLjExXGNsYXNzZXN0AAEv
+07 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVFrrZ2F1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQALkM6XGN5Z3dpblxob21lXEtHXHA0XHRhcmdldFxzY2FsYS0yLjExXGNsYXNzZXN0AAEv
+08 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVFr12d11cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQALkM6XGN5Z3dpblxob21lXEtHXHA0XHRhcmdldFxzY2FsYS0yLjExXGNsYXNzZXN0AAEv
+09 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVFr2uMN1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQALkM6XGN5Z3dpblxob21lXEtHXHA0XHRhcmdldFxzY2FsYS0yLjExXGNsYXNzZXN0AAEv
+10 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVFr4lHZ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQALkM6XGN5Z3dpblxob21lXEtHXHA0XHRhcmdldFxzY2FsYS0yLjExXGNsYXNzZXN0AAEv
+11 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVFr4rPh1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQALkM6XGN5Z3dpblxob21lXEtHXHA0XHRhcmdldFxzY2FsYS0yLjExXGNsYXNzZXN0AAEv
+12 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVFr5CEl1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQALkM6XGN5Z3dpblxob21lXEtHXHA0XHRhcmdldFxzY2FsYS0yLjExXGNsYXNzZXN0AAEv
+13 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVFr7WCp1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQALkM6XGN5Z3dpblxob21lXEtHXHA0XHRhcmdldFxzY2FsYS0yLjExXGNsYXNzZXN0AAEv
+14 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVFr8qBh1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQALkM6XGN5Z3dpblxob21lXEtHXHA0XHRhcmdldFxzY2FsYS0yLjExXGNsYXNzZXN0AAEv
+15 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVFr+k9B1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQALkM6XGN5Z3dpblxob21lXEtHXHA0XHRhcmdldFxzY2FsYS0yLjExXGNsYXNzZXN0AAEv
+16 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVFr/VG51cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQALkM6XGN5Z3dpblxob21lXEtHXHA0XHRhcmdldFxzY2FsYS0yLjExXGNsYXNzZXN0AAEv
+17 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVFsB7mB1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQALkM6XGN5Z3dpblxob21lXEtHXHA0XHRhcmdldFxzY2FsYS0yLjExXGNsYXNzZXN0AAEv
+18 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVFtACQ11cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQALkM6XGN5Z3dpblxob21lXEtHXHA0XHRhcmdldFxzY2FsYS0yLjExXGNsYXNzZXN0AAEv
+19 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVFtFy+d1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQALkM6XGN5Z3dpblxob21lXEtHXHA0XHRhcmdldFxzY2FsYS0yLjExXGNsYXNzZXN0AAEv
+20 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVFtPMgJ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQALkM6XGN5Z3dpblxob21lXEtHXHA0XHRhcmdldFxzY2FsYS0yLjExXGNsYXNzZXN0AAEv
+21 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVFtP7wB1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQALkM6XGN5Z3dpblxob21lXEtHXHA0XHRhcmdldFxzY2FsYS0yLjExXGNsYXNzZXN0AAEv
+22 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVFtQ0W51cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQALkM6XGN5Z3dpblxob21lXEtHXHA0XHRhcmdldFxzY2FsYS0yLjExXGNsYXNzZXN0AAEv
+23 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVFtSKb51cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQALkM6XGN5Z3dpblxob21lXEtHXHA0XHRhcmdldFxzY2FsYS0yLjExXGNsYXNzZXN0AAEv
+24 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVFtTYSN1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQALkM6XGN5Z3dpblxob21lXEtHXHA0XHRhcmdldFxzY2FsYS0yLjExXGNsYXNzZXN0AAEv
+25 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVFtV1Dd1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQALkM6XGN5Z3dpblxob21lXEtHXHA0XHRhcmdldFxzY2FsYS0yLjExXGNsYXNzZXN0AAEv
+26 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVFtWTxp1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQALkM6XGN5Z3dpblxob21lXEtHXHA0XHRhcmdldFxzY2FsYS0yLjExXGNsYXNzZXN0AAEv
+27 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVFtXIaR1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQALkM6XGN5Z3dpblxob21lXEtHXHA0XHRhcmdldFxzY2FsYS0yLjExXGNsYXNzZXN0AAEv
+28 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVF+/Oh91cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQALkM6XGN5Z3dpblxob21lXEtHXHA0XHRhcmdldFxzY2FsYS0yLjExXGNsYXNzZXN0AAEv
+29 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVF/HZ4B1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQALkM6XGN5Z3dpblxob21lXEtHXHA0XHRhcmdldFxzY2FsYS0yLjExXGNsYXNzZXN0AAEv
+30 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVF/Im1t1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQALkM6XGN5Z3dpblxob21lXEtHXHA0XHRhcmdldFxzY2FsYS0yLjExXGNsYXNzZXN0AAEv
+31 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVF/JGoh1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQALkM6XGN5Z3dpblxob21lXEtHXHA0XHRhcmdldFxzY2FsYS0yLjExXGNsYXNzZXN0AAEv
+32 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVF/JbcR1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQALkM6XGN5Z3dpblxob21lXEtHXHA0XHRhcmdldFxzY2FsYS0yLjExXGNsYXNzZXN0AAEv
+33 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVF/JyZd1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQALkM6XGN5Z3dpblxob21lXEtHXHA0XHRhcmdldFxzY2FsYS0yLjExXGNsYXNzZXN0AAEv
+34 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVHQ1iSt1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQALkM6XGN5Z3dpblxob21lXEtHXHA0XHRhcmdldFxzY2FsYS0yLjExXGNsYXNzZXN0AAEv

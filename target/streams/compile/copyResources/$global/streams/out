@@ -1,0 +1,6 @@
+[debug] Copy resource mappings: 
+[debug] 	(C:\cygwin\home\KG\p4\conf\application.conf,C:\cygwin\home\KG\p4\target\scala-2.11\classes\application.conf)
+[debug] 	(C:\cygwin\home\KG\p4\conf\logback.xml,C:\cygwin\home\KG\p4\target\scala-2.11\classes\logback.xml)
+[debug] 	(C:\cygwin\home\KG\p4\conf\META-INF,C:\cygwin\home\KG\p4\target\scala-2.11\classes\META-INF)
+[debug] 	(C:\cygwin\home\KG\p4\conf\routes,C:\cygwin\home\KG\p4\target\scala-2.11\classes\routes)
+[debug] 	(C:\cygwin\home\KG\p4\conf\META-INF\persistence.xml,C:\cygwin\home\KG\p4\target\scala-2.11\classes\META-INF\persistence.xml)

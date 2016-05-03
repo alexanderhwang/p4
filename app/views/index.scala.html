@@ -1,0 +1,24 @@
+@()
+
+@main("Targ\u00E9t") {
+<script type='text/javascript' src='@routes.Assets.at("javascripts/index.js")'></script>
+
+<p id="storemoney"></p>
+<p id="storeinventory"></p>
+<p id="selfmoney"></p>
+<p id="selfinventory"></p>
+<p id="message"></p>
+
+<ul id="values"></ul>
+
+<form method="POST" action="@routes.Application.buy()">
+    <input type="text" name="valData" placeholder="item"/>
+    <button>Buy</button>
+</form>
+<form method="POST" action="@routes.Application.sell()">
+    <input type="text" name="valData" placeholder="item"/>
+    <button>Sell</button>
+</form>
+
+<p id="pricelist"></p>
+}
