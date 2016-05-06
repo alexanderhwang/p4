@@ -37,13 +37,21 @@ public class Application extends Controller {
         Value value = valueForm.bindFromRequest().get();
         JPA.em().persist(value);
         String itemName = value.getData();
+        int index = 1;
         for (Map.Entry<String, Integer> entry : storeInventory.entrySet())
         {
             if (itemName.equalsIgnoreCase(entry.getKey()))
             {
                 String buyItem = entry.getKey();
                 int buyStock = entry.getValue().intValue();
-                message = "You bought " + buyItem + ".";
+                if (items.get(buyItem) % 100 == 0)
+                {
+                    message = "You bought " + buyItem + " for $" + (items.get(buyItem) / 100) + "." + (items.get(buyItem) % 100) + "0.";
+                }
+                else
+                {
+                    message = "You bought " + buyItem + " for $" + (items.get(buyItem) / 100) + "." + (items.get(buyItem) % 100) + ".";
+                }
                 //Price from items
                 storeMoney += items.get(buyItem);
                 selfMoney -= items.get(buyItem);
@@ -51,6 +59,26 @@ public class Application extends Controller {
                 storeInventory.put(buyItem, storeInventory.get(buyItem) - 1) ;
                 selfInventory.put(buyItem, selfInventory.get(buyItem) + 1);
             }
+            else if (itemName.equals(index + ""))
+            {
+                String buyItem = entry.getKey();
+                int buyStock = entry.getValue().intValue();
+                if (items.get(buyItem) % 100 == 0)
+                {
+                    message = "You bought " + buyItem + " for $" + (items.get(buyItem) / 100) + "." + (items.get(buyItem) % 100) + "0.";
+                }
+                else
+                {
+                    message = "You bought " + buyItem + " for $" + (items.get(buyItem) / 100) + "." + (items.get(buyItem) % 100) + ".";
+                }
+                //Price from items
+                storeMoney += items.get(buyItem);
+                selfMoney -= items.get(buyItem);
+                //Stock from inventories
+                storeInventory.put(buyItem, storeInventory.get(buyItem) - 1) ;
+                selfInventory.put(buyItem, selfInventory.get(buyItem) + 1);
+            }
+            index++;
         }
         /*if (itemName.equalsIgnoreCase("eggs"))
         {
@@ -70,13 +98,21 @@ public class Application extends Controller {
         Value value = valueForm.bindFromRequest().get();
         JPA.em().persist(value);
         String itemName = value.getData();
+        int index = 1;
         for (Map.Entry<String, Integer> entry : storeInventory.entrySet())
         {
             if (itemName.equalsIgnoreCase(entry.getKey()))
             {
                 String sellItem = entry.getKey();
                 int sellStock = entry.getValue().intValue();
-                message = "You sold " + sellItem + ".";
+                if (items.get(sellItem) * .75 % 100 == 0)
+                {
+                    message = "You sold " + sellItem + " for $" + (items.get(sellItem) * .75 / 100) + "." + (items.get(sellItem) * .75 % 100) + "0.";
+                }
+                else
+                {
+                    message = "You sold " + sellItem + " for $" + (items.get(sellItem) * .75 / 100) + "." + (items.get(sellItem) * .75 % 100) + ".";
+                }
                 //Price from items
                 storeMoney -= items.get(sellItem) * .75;
                 selfMoney += items.get(sellItem) * .75;
@@ -84,6 +120,26 @@ public class Application extends Controller {
                 storeInventory.put(sellItem, storeInventory.get(sellItem) + 1);
                 selfInventory.put(sellItem, selfInventory.get(sellItem) - 1);
             }
+            else if (itemName.equals(index + ""))
+            {
+                String sellItem = entry.getKey();
+                int sellStock = entry.getValue().intValue();
+                if (items.get(sellItem) * .75 % 100 == 0)
+                {
+                    message = "You sold " + sellItem + " for $" + (items.get(sellItem) * .75 / 100) + "." + (items.get(sellItem) * .75 % 100) + "0.";
+                }
+                else
+                {
+                    message = "You sold " + sellItem + " for $" + (items.get(sellItem) * .75 / 100) + "." + (items.get(sellItem) * .75 % 100) + ".";
+                }
+                //Price from items
+                storeMoney -= items.get(sellItem) * .75;
+                selfMoney += items.get(sellItem) * .75;
+                //Stock from inventories
+                storeInventory.put(sellItem, storeInventory.get(sellItem) + 1);
+                selfInventory.put(sellItem, selfInventory.get(sellItem) - 1);
+            }
+            index++;
         }
         return redirect(routes.Application.index());
     }
@@ -142,16 +198,18 @@ public class Application extends Controller {
     @Transactional(readOnly = true)
     public Result priceList() {
         String priceList = "Prices: <br />";
+        int index = 1;
         for (Map.Entry<String, Integer> entry : items.entrySet())
         {
             if (entry.getValue() % 100 == 0)
             {
-                priceList += entry.getKey() + ":  $" + (entry.getValue() / 100) + "." + (entry.getValue() % 100) + "0<br />";
+                priceList += index + " - " + entry.getKey() + ":  $" + (entry.getValue() / 100) + "." + (entry.getValue() % 100) + "0<br />";
             }
             else
             {
-                priceList += entry.getKey() + ":  $" + (entry.getValue() / 100) + "." + (entry.getValue() % 100) + "<br />";
+                priceList += index + " - " + entry.getKey() + ":  $" + (entry.getValue() / 100) + "." + (entry.getValue() % 100) + "<br />";
             }
+            index++;
         }
         return ok(priceList);
     }
