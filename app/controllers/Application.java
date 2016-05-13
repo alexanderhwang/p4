@@ -44,6 +44,7 @@ public class Application extends Controller {
             {
                 String buyItem = entry.getKey();
                 int buyStock = entry.getValue().intValue();
+                //if (selfMoney < items.get(buyItem)) // TODO
                 if (items.get(buyItem) % 100 == 0)
                 {
                     message = "You bought " + buyItem + " for $" + (items.get(buyItem) / 100) + "." + (items.get(buyItem) % 100) + "0.";
@@ -104,18 +105,19 @@ public class Application extends Controller {
             if (itemName.equalsIgnoreCase(entry.getKey()))
             {
                 String sellItem = entry.getKey();
+                int sellItemMod = (int) (items.get(sellItem) * .75);
                 int sellStock = entry.getValue().intValue();
-                if (items.get(sellItem) * .75 % 100 == 0)
+                if (sellItemMod % 100 == 0)
                 {
-                    message = "You sold " + sellItem + " for $" + (items.get(sellItem) * .75 / 100) + "." + (items.get(sellItem) * .75 % 100) + "0.";
+                    message = "You sold " + sellItem + " for $" + (sellItemMod / 100) + "." + (sellItemMod % 100) + "0.";
                 }
                 else
                 {
-                    message = "You sold " + sellItem + " for $" + (items.get(sellItem) * .75 / 100) + "." + (items.get(sellItem) * .75 % 100) + ".";
+                    message = "You sold " + sellItem + " for $" + (sellItemMod / 100) + "." + (sellItemMod % 100) + ".";
                 }
                 //Price from items
-                storeMoney -= items.get(sellItem) * .75;
-                selfMoney += items.get(sellItem) * .75;
+                storeMoney -= sellItemMod;
+                selfMoney += sellItemMod;
                 //Stock from inventories
                 storeInventory.put(sellItem, storeInventory.get(sellItem) + 1);
                 selfInventory.put(sellItem, selfInventory.get(sellItem) - 1);
@@ -123,18 +125,19 @@ public class Application extends Controller {
             else if (itemName.equals(index + ""))
             {
                 String sellItem = entry.getKey();
+                int sellItemMod = (int) (items.get(sellItem) * .75);
                 int sellStock = entry.getValue().intValue();
-                if (items.get(sellItem) * .75 % 100 == 0)
+                if ((items.get(sellItem) * .75) % 100 == 0)
                 {
-                    message = "You sold " + sellItem + " for $" + (items.get(sellItem) * .75 / 100) + "." + (items.get(sellItem) * .75 % 100) + "0.";
+                    message = "You sold " + sellItem + " for $" + (sellItemMod / 100) + "." + (sellItemMod % 100) + "0.";
                 }
                 else
                 {
-                    message = "You sold " + sellItem + " for $" + (items.get(sellItem) * .75 / 100) + "." + (items.get(sellItem) * .75 % 100) + ".";
+                    message = "You sold " + sellItem + " for $" + (sellItemMod / 100) + "." + (sellItemMod % 100) + ".";
                 }
                 //Price from items
-                storeMoney -= items.get(sellItem) * .75;
-                selfMoney += items.get(sellItem) * .75;
+                storeMoney -= sellItemMod;
+                selfMoney += sellItemMod;
                 //Stock from inventories
                 storeInventory.put(sellItem, storeInventory.get(sellItem) + 1);
                 selfInventory.put(sellItem, selfInventory.get(sellItem) - 1);
