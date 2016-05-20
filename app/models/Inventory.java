@@ -9,9 +9,9 @@ public class Inventory
 {
     private static Inventory instance = new Inventory();
 
-    private int storeMoney = 1000000;
+    private int storeMoney = 100000000;
     private Map<String, Integer> storeInventory = new HashMap<String, Integer>();
-    private int selfMoney = 10000;
+    private int selfMoney = 1000000;
     private Map<String, Integer> selfInventory = new HashMap<String, Integer>();
     private Map<String, Integer> items = new HashMap<String, Integer>();
     private String message = "";
@@ -19,14 +19,17 @@ public class Inventory
     private Inventory()
     {
         //Populate items and storeInventory
+        items.put("Candy", 75);
+        storeInventory.put("Candy", 256);
+        selfInventory.put("Candy", 0);
         items.put("Lettuce", 350);
-        storeInventory.put("Lettuce", 32);
+        storeInventory.put("Lettuce", 64);
         selfInventory.put("Lettuce", 0);
         items.put("Cheese", 450);
-        storeInventory.put("Cheese", 40);
+        storeInventory.put("Cheese", 80);
         selfInventory.put("Cheese", 0);
         items.put("Eggs", 600);
-        storeInventory.put("Eggs", 24);
+        storeInventory.put("Eggs", 48);
         selfInventory.put("Eggs", 0);
     }
 
