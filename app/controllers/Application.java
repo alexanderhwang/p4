@@ -31,7 +31,6 @@ public class Application extends Controller {
     public Result index() {
         return ok(index.render());
     }
-
     @Transactional
     public Result buy() {
         Form<Value> valueForm = formFactory.form(Value.class);
